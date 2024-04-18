@@ -1,24 +1,22 @@
 ---
-DateDue: 
-Title: Borders
-Type: D
+title: Borders
+type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
 DateModified: 2024-01-10
-DateDo: 
-DateDone: 2024-01-09T00:00:00.000+08:00
-status: 
-mindmap-plugin: basic
-Topic: Borders
-Reviewed: 1
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Difficulty: Good
+
+status:
+
+topic: Borders
+reviewed: 1
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+difficulty: Good
 ---
 
 # Borders
 
-## 📌[Border Radius (Rounded Corners)](Border%20Radius%20(Rounded%20Corners).md)
+## 📌[Border Radius (Rounded Corners)](<Border-Radius-(Rounded-Corners).md>)
 
 ## Shorthand Property & Values
 
@@ -27,6 +25,7 @@ Difficulty: Good
 ### `border-width`
 
 ### `border-style`
+
 - `solid`
 - `dashed`
 - `dotted`
@@ -39,9 +38,11 @@ Difficulty: Good
 ## Divide
 
 ### 💡controlling the border width between elements
+
 - left, right, top, bottom...
 
 ### Width
+
 - `border-left-width`
 - `border-right-width`
 - `border-top-width`
@@ -68,6 +69,7 @@ Difficulty: Good
 ### 💡to create a customizable ring around an element
 
 ### Width
+
 - `ring-0`
 - `ring-1`
 - `ring-2`
@@ -75,6 +77,7 @@ Difficulty: Good
 - `ring-inset`
 
 ### Color
+
 - [Setting the ring color](https://tailwindcss.com/docs/ring-color#setting-the-ring-color)
 
 ### Offset-width
@@ -83,8 +86,8 @@ Difficulty: Good
 
 ### 🏷️[O-TailwindCSS](O-TailwindCSS.md)
 
-### 🏷️[Box Shadow](Box%20Shadow.md)
+### 🏷️[Box Shadow](Box-Shadow.md)
 
-## 📌[Border-Box Explained](Border-Box%20Explained.md)
+## 📌[Border-Box Explained](Border-Box-Explained.md)
 
-## 📌[Box Shadow](Box%20Shadow.md)
+## 📌[Box Shadow](Box-Shadow.md)

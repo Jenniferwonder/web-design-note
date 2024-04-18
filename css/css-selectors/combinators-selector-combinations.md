@@ -1,18 +1,16 @@
 ---
-Title: Combinators (Selector Combinations)
-Type: D
+title: Combinators (Selector Combinations)
+type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
 DateModified: 2024-01-09
-DateDo:
-DateDone: 2024-01-09T00:00:00.000+08:00
-DateDue:
+
 status:
-Reviewed: 1
-DateReviewed: 2024-01-09T00:00:00.000+08:00
-Topic: Selectors
-Difficulty: Hard
+reviewed: 1
+Datereviewed: 2024-01-09T00:00:00.000+08:00
+topic: Selectors
+difficulty: Hard
 ---
 
 ## Combinators (Selector Combinations)
@@ -50,4 +48,4 @@ Difficulty: Hard
 
 ### 📌 Nesting to create complex selectors
 
-- ![](z-Assets/Paste%20image%201695097054773image.png)
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695097054773image.png)

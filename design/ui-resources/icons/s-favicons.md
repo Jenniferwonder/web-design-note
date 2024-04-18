@@ -1,12 +1,12 @@
 ---
-Title: Favicons
+title: Favicons
 tags:
   - Design
 DateStarted: 2022-12-16
-due: 
+due:
 DateModified: 2022-12-16
-status: 
-Type: S
+status:
+type: S
 ---
 
 ## Favicons

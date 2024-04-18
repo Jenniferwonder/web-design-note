@@ -1,11 +1,10 @@
 ---
-Title: Components
-Type: D
-tags: 
+title: Components
+type: D
+tags:
 DateStarted: 2023-10-10
 DateModified: 2023-10-11
-status: 
-mindmap-plugin: basic
+status:
 ---
 
 # Components
@@ -13,16 +12,17 @@ mindmap-plugin: basic
 ## ✅ Building blocks of design system: Elements, structures and patterns to be reused
 
 ### Objects
+
 - Size
 - Position
 - Rotation
 - Fill
 - Border
-    - Inner stroke
-        - Used most frequently
-        - Does not increase the size of the element
-    - Centered stroke
-    - Outer stroke
+  - Inner stroke
+    - Used most frequently
+    - Does not increase the size of the element
+  - Centered stroke
+  - Outer stroke
 - Border radius
 - Shadows
 - Layer blur
@@ -51,9 +51,11 @@ mindmap-plugin: basic
 ### ![[Components in Figma.png|375]]
 
 ### Main Component
+
 - Define the properties of a component
 
 ### Instance Component
+
 - Copies which will inherit the main component updates
 
 ## [[Iconography]]
@@ -61,64 +63,73 @@ mindmap-plugin: basic
 ### Adjust sizes using icon grid
 
 ### Naming
+
 - Icon/size/name
 
-### *Create multiple components*
+### _Create multiple components_
 
 ### Add description/ extra search terms for easier search
-- ![[z-Assets/Paste image 1697004156745image.png]]
+
+- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697004156745image.png]]
 
 ## Illustrations
 
 ### Naming
+
 - Context/type
 - Batch rename multiple layers
-    - ![[z-Assets/Paste image 1697004768213image.png]]
+  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697004768213image.png]]
 
-### *Create component set*
+### _Create component set_
 
-### Rename *properties*
-- ![[z-Assets/Paste image 1697004578013image.png]]
+### Rename _properties_
+
+- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697004578013image.png]]
 
 ### Rename component sets name
-- ![[z-Assets/Paste image 1697004943218image.png]]
+
+- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697004943218image.png]]
 
 ## 💡Create a component in figma
 
-### Day toggle ![[z-Assets/Paste image 1697005243017image.png|]50]]
+### Day toggle ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697005243017image.png|]50]]
+
 - Create component and create component property if any
 - Add component variant
-    - ![[z-Assets/Paste image 1697005519032image.png|200]]
+  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697005519032image.png|200]]
 - Change variant property
-    - ![[z-Assets/Paste image 1697005672828image.png|200]]
+  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697005672828image.png|200]]
 - Change color and styles for each variant
-- Select text section and in *Content* section, create a text component property
-    - ![[z-Assets/Paste image 1697006091166image.png]]
+- Select text section and in _Content_ section, create a text component property
+  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697006091166image.png]]
 - Set default component
-    - The top left component in component set
+  - The top left component in component set
 
-### Action presentation card ![[z-Assets/Paste image 1697006267125image.png]]
+### Action presentation card ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697006267125image.png]]
+
 - Create component property
-    - ![[z-Assets/Paste image 1697006544405image.png]]
+  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697006544405image.png]]
 
 ## 💡Create a pattern in figma
 
 ### Day selector
+
 - Use toggleDay component
-- Add *auto-layout frame* around the component
-    - `SHIFT + A`
+- Add _auto-layout frame_ around the component
+  - `SHIFT + A`
 - Hit `enter` to select the component, and `ctrl + D` to duplicate
-    - ![[z-Assets/Paste image 1697007228165image.png]]
+  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697007228165image.png]]
 - Update spacing
-    - padding 0
-    - space-between 10
-- Update dayCharacter *instance property* to match
+  - padding 0
+  - space-between 10
+- Update dayCharacter _instance property_ to match
 - Create and rename the new component to daySelector
 
 ### Patterns
+
 - ✅Visual and interactive aspect of components that enable standardizations to minimize discrepancies
-    - Reusable solutions to common problems or user goals
-    - Identify when user flows and goals happen most frequently (Refer to analytics and data logs of your product)
+  - Reusable solutions to common problems or user goals
+  - Identify when user flows and goals happen most frequently (Refer to analytics and data logs of your product)
 - More patterns
-    - Navigation
-    - Forms
+  - Navigation
+  - Forms

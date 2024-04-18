@@ -1,18 +1,18 @@
 ---
-Title: Font-字体
+title: Font-字体
 tags:
   - Design
 DateStarted: 2022-12-16
 DateModified: 2022-12-16
-status: 
-Type: S
+status:
+type: S
 ---
 
 ## Properties
 
 #### 1. Font
 
-- 防止数字更新抖动，选择 `monospace` 字体 -- [A-JS Stop Watch & Countdown Timer](A-JS%20Stop%20Watch%20&%20Countdown%20Timer)
+- 防止数字更新抖动，选择 `monospace` 字体 -- [A-JS Stop Watch & Countdown Timer](A-JS-Stop-Watch-&-Countdown-Timer)
 
 ## Fonts
 

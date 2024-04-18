@@ -1,8 +1,8 @@
 ---
-Title: 02-圣杯式布局：Twitter主页
+title: 02-圣杯式布局：Twitter主页
 tags:
   - TechSkills
-status: 
+status:
 DateStarted: 2022-11-11
 ---
 
@@ -67,7 +67,7 @@ import SidebarRow from "./SidebarRow";
 import React, { SVGProps } from "react";
 interface Props {
 	Icon: (props: SVGProps<SVGSVGElement>) => JSX.Element;
-	Title: string;
+	title: string;
 }
 ```
 

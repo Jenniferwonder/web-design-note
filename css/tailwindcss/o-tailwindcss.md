@@ -1,15 +1,12 @@
 ---
-Title: Tailwind-CSS
-Type: O
+title: Tailwind-CSS
+type: O
 tags:
   - CSS
 DateStarted: 2023-12-12
 DateModified: 2023-12-12
-DateDo: 
-DateDone: 
-DateDue: 
-status: 
-mindmap-plugin: basic
+
+status:
 ---
 
 # O-TailwindCSS
@@ -19,6 +16,7 @@ mindmap-plugin: basic
 ## Reference
 
 ### 📌GPT Prompts
+
 - Compare layout properties in CSS and Tailwind CSS in a concise table across different aspects
 
 ## Core Concepts
@@ -40,6 +38,7 @@ mindmap-plugin: basic
 ## Customization
 
 ### Configuration
+
 - `tailwind.config.js`
 
 ### Content
@@ -56,7 +55,7 @@ mindmap-plugin: basic
 
 ### Presets
 
-## [Base Styles](Base%20Styles.md)
+## [Base Styles](Base-Styles.md)
 
 ## Layout
 
@@ -103,6 +102,7 @@ mindmap-plugin: basic
 ## [Flexbox](Flexbox.md) & [Grids](Grids.md)
 
 ### Flexbox
+
 - Flex Basis
 - Flex Direction
 - Flex Wrap
@@ -112,6 +112,7 @@ mindmap-plugin: basic
 - Order
 
 ### Grid
+
 - Grid Template Columns
 - Grid Column Start/ End
 - Grid Template Rows
@@ -122,6 +123,7 @@ mindmap-plugin: basic
 - Gap
 
 ### Position
+
 - Justify Content
 - Justify Items
 - Justify Self
@@ -157,6 +159,7 @@ mindmap-plugin: basic
 ## [Typography](Typography.md)
 
 ### Font
+
 - Font Family
 - Font Size
 - Font Smoothing
@@ -166,10 +169,12 @@ mindmap-plugin: basic
 - Letter Spacing
 
 ### Line
+
 - Line Clamp
 - Line Height
 
 ### Text
+
 - Text Align
 - Text Color
 - Text Decoration
@@ -180,12 +185,13 @@ mindmap-plugin: basic
 - Text Overflow
 - Text Indent
 
-### [Lists](Styling%20Lists.md)
+### [Lists](Styling-Lists.md)
+
 - List Style Image
 - List Style Type
 - List Style Position
 - to selectively introduce default list styles into article-style parts of a page
-    - [@tailwindcss/typography - Tailwind CSS](https://tailwindcss.com/docs/typography-plugin)
+  - [@tailwindcss/typography - Tailwind CSS](https://tailwindcss.com/docs/typography-plugin)
 - If your content is truly a list but you would like to keep it unstyled, add a “list” role to the element
 
 ### Vertical Align
@@ -218,28 +224,32 @@ mindmap-plugin: basic
 
 ### Gradient Color Stops
 
-### 🏷️[CSS Backgrounds](CSS%20Backgrounds.md)
+### 🏷️[CSS Backgrounds](CSS-Backgrounds.md)
 
 ## Borders
 
 ### Border
+
 - Border Radius
 - Border Width
 - Border Color
 - Border Style
 
 ### Divide
+
 - Divide Width
 - Divide Color
 - Divide Style
 
 ### Outline
+
 - Outline Width
 - Outline Color
 - Outline Style
 - Outline Offset
 
 ### Ring
+
 - Ring Width
 - Ring Color
 - Ring Offset Width
@@ -278,6 +288,7 @@ mindmap-plugin: basic
 ### Sepia
 
 ### Backdrop
+
 - Blur
 - Brightness
 - Contrast
@@ -310,7 +321,7 @@ mindmap-plugin: basic
 
 ### Animation
 
-### 🏷️[CSS Animation & Transition](CSS%20Animation%20&%20Transition.md)
+### 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition.md)
 
 ## Transforms
 
@@ -324,7 +335,7 @@ mindmap-plugin: basic
 
 ### Transform Origin
 
-### 🏷️[CSS Transform](CSS%20Transform.md)
+### 🏷️[CSS Transform](CSS-Transform.md)
 
 ## Interactivity
 

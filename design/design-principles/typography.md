@@ -1,11 +1,10 @@
 ---
-Title: Typography
-Type: D
-tags: 
-status: 
+title: Typography
+type: D
+tags:
+status:
 DateStarted: 2023-10-10
 DateModified: 2023-10-15
-mindmap-plugin: basic
 ---
 
 # Typography
@@ -23,47 +22,56 @@ mindmap-plugin: basic
 ### Smooch Sans: [https://bit.ly/3IDQ3Vg](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHllRzFuNmlhWUJvZy1BZUNOOWtEUUxYQkFjUXxBQ3Jtc0ttY1hubkVaODIxUmNmck5CWTR5UnJOa1poY0JIcmlGb0xxYXVUNlFkdGtqcS04OFhxQS1LQWI0d29EMkJUbTVjemQ2SzBpazJpQkRpclhHQkhsc1lFVlh0ejlTbnREZ1U2Umh5SXRxQ0F1M1d3YkJEYw&q=https%3A%2F%2Fbit.ly%2F3IDQ3Vg&v=0XSLMGh8yhM)
 
 ### 中文字体
+
 - [猫啃网](https://www.maoken.com/)
 - [100Font](https://www.100font.com/)
 - 字由
 
 ### 📌Resources and Figma Plugins
+
 - Typescale by Sam Smith: https://bit.ly/3WsNmLM
 - Scaaale by Nicolas Massi: https://bit.ly/3BXDXlP
 - Typescale.com: https://bit.ly/45upBr0
 
 ### Text Effect
+
 - [Photoshop Text effect Compilation: 18 Simple Text Effects for Beginners - YouTube](https://www.youtube.com/watch?v=Z8DehBmFqLc)
 
-## ⭐中文字体推荐
+## ⭐ 中文字体推荐
 
 ### 优设标题黑
-- ![[z-Assets/Paste image 1697181440491image.png]]
+
+- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697181440491image.png]]
 - 速度、力量、科技、知识
 
 ### 微软雅黑 (非免费) 替代
-- ![[z-Assets/Paste image 1697181537414image.png]]
+
+- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697181537414image.png]]
 
 ## Choose a Typeface or Font of a typeface
 
 ## Type scales
 
-### A collection of *font sizes*, and *styles* that make up your type system
+### A collection of _font sizes_, and _styles_ that make up your type system
 
 ### Starts with a base size: 16px
+
 - ![[Design Systems-Type Scales.png]]
 - Popular scale factors: major third, perfect fourth
 
 ### Presented in a hierarchical format
+
 - ![[Type scales in hierarchical format.png]]
 - ![[Type scale in hierarchical format-function based.png]]
 
 ## Other properties
 
 ### Letter-spacing
+
 - Density and readability
 
 ### Font-weight
+
 - Hierarchy
 
 ### Line-height
@@ -71,8 +79,10 @@ mindmap-plugin: basic
 ## 💡Set typography system in Figma
 
 ### Identify
-- ![[z-Assets/Paste image 1696999026860image.png]]
+
+- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696999026860image.png]]
 - Remove unnecessary text style and exceptions
 
 ### Define text styles
-- ![[z-Assets/Paste image 1696999379648image.png]]
+
+- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696999379648image.png]]

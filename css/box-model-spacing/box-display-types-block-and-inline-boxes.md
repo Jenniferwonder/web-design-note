@@ -1,20 +1,18 @@
 ---
-Title: Box Display Types (Block and Inline Boxes)
-Type: D
+title: Box Display Types (Block and Inline Boxes)
+type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
 DateModified: 2024-01-09
-DateDo:
-DateDone: 2024-01-09T00:00:00.000+08:00
-DateDue:
+
 status:
-Reviewed: 1
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Topic: Box
-mindmap-plugin: basic
-Difficulty: Good
-Comment: ⭐⭐⭐
+reviewed: 1
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+topic: Box
+
+difficulty: Good
+comment: ⭐⭐⭐
 ---
 
 # Box Display Types (Block and Inline Boxes)
@@ -46,17 +44,17 @@ Comment: ⭐⭐⭐
 - The `width` and `height` properties will not apply
 - Top and bottom padding, margins, and borders will apply but will **not cause** other inline boxes to move away from the box
 - Left and right padding, margins, and borders will apply and will **cause** other inline boxes to move away from the box.
-- ![](<z-Assets/CSS%20Box%20Model%20(盒模型)-Inline.png>)
+- ![](<https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/CSS-Box-Model-(盒模型)-Inline.png>)
 - 📌 `<a>`, `<span>`, `<em>` and `<strong>` use **inline** as their outer display type by default
 
 ### `display: inline-block`
 
 - provides a middle ground
 - Use it if you do not want an item to break onto a new line, but do want it to respect width and height
-  - ![](<z-Assets/CSS%20Box%20Model%20(盒模型)-Inline%20Block.png>)
+  - ![](<https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/CSS-Box-Model-(盒模型)-Inline-Block.png>)
 - Allow padding to be set on it, making it easier for a user to click the link
 
-## 🏷️[Hiding Elements](Hiding%20Elements.md)
+## 🏷️[Hiding Elements](Hiding-Elements.md)
 
 ### `display: none`
 
@@ -80,7 +78,7 @@ Comment: ⭐⭐⭐
 
 ### `inline-grid`
 
-## 🏷️[Table Style](Table%20Style.md)
+## 🏷️[Table Style](Table-Style.md)
 
 ### `display: table`
 
@@ -104,6 +102,6 @@ Comment: ⭐⭐⭐
 
 ### [Table](https://tailwindcss.com/docs/display#table)
 
-## 🏷️[Styling Lists](Styling%20Lists.md)
+## 🏷️[Styling Lists](Styling-Lists.md)
 
 ### `display: list-item`

@@ -1,11 +1,10 @@
 ---
-Title: Design Principles
-Type: D
-tags: 
-status: 
+title: Design Principles
+type: D
+tags:
+status:
 DateStarted: 2023-10-10
 DateModified: 2023-10-10
-mindmap-plugin: basic
 ---
 
 # Design Principles
@@ -13,6 +12,7 @@ mindmap-plugin: basic
 ## What
 
 ### ✅A defining characteristic
+
 - Direct everyone towards the common goals
 - How this impacts customer experience and business goals
 - Clear examples
@@ -26,6 +26,7 @@ mindmap-plugin: basic
 ### ❌Avoid competing values that create ambiguity
 
 ### ✅ Consider all scales used in your design system
+
 - font size, line height and grid base
 
 ## Balance

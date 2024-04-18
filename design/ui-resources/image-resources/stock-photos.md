@@ -1,12 +1,13 @@
 ---
-Title: S-Stock Photos
-Type: S
+title: S-Stock Photos
+type: S
 tags:
   - Design
-status: 
+status:
 DateStarted: 2023-10-13
 DateModified: 2023-10-13
 ---
+
 ## S-Stock Photos
 
 > Websites that offer free stock photos of all kinds for your websites and apps

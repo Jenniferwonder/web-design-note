@@ -1,12 +1,11 @@
 ---
-Title: PS-Basics
-Type: D
+title: PS-Basics
+type: D
 tags:
   - PS
 DateStarted: 2023-10-20
 DateModified: 2023-11-13
-status: 
-mindmap-plugin: basic
+status:
 ---
 
 # PS-Basics
@@ -14,14 +13,17 @@ mindmap-plugin: basic
 ## Essentials
 
 ### ❓Format
+
 - Smart object
 - Rasterized image
 
 ### ❓Tools to free disk space
-- Open *Preference* Setting window > *Scratch space*
-    - `Ctrl + K`
+
+- Open _Preference_ Setting window > _Scratch space_
+  - `Ctrl + K`
 
 ### Windows
+
 - Menu
 - Option Panel
 - Document window
@@ -29,6 +31,7 @@ mindmap-plugin: basic
 - Tool Box
 
 ### PS Shortcuts
+
 - Select All: `ctrl` + `a`
 - Deselect: `ctrl` + `d`
 - Duplicate: `Alt` + Drag
@@ -39,12 +42,12 @@ mindmap-plugin: basic
 - Real Size: `ctrl` + `1`
 - Fit the screen: `ctrl` + `0`
 - Zoom:
-    - `ctrl` + `alt`
-    - `Ctrl +`
+  - `ctrl` + `alt`
+  - `Ctrl +`
 - Switch pointer to hand tool: press `space`
 - Bend/ Skew Shape
 
-## Use *Artboard*
+## Use _Artboard_
 
 ### For batch export
 
@@ -52,71 +55,79 @@ mindmap-plugin: basic
 
 ### [[Color]]
 
-### Use *brush*
-- Blend *Mode: Color*
-    - To change the color of an object
+### Use _brush_
+
+- Blend _Mode: Color_
+  - To change the color of an object
 - ✅ Change brush size
-    - `[` to decrease size, `]` to increase size
+  - `[` to decrease size, `]` to increase size
 
 ### Foreground and Background Color
-- Select *Eye dropper* tool
+
+- Select _Eye dropper_ tool
 - Press `D` to get back to the default color
 - Press `X` to switch background and foreground color
 
 ### ✅Set the background color
-- Use *Bucket tool*
-- 📌 Or *Adjustment layer > Solid fill*
+
+- Use _Bucket tool_
+- 📌 Or _Adjustment layer > Solid fill_
 
 ## Image & Canvas Size
 
 ### Image size
-- Resize proportionally (*Image > Image Size*)
-    - ![[z-Assets/Paste image 1697200731400image.png]]
+
+- Resize proportionally (_Image > Image Size_)
+  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697200731400image.png]]
 - Resolution
-    - For online
-        - pixels
-    - For print
-        - 300 pixels/inch
-        - Make *Resample* box unchecked
-            - We don't want to change the total resolution of the image
+  - For online
+    - pixels
+  - For print
+    - 300 pixels/inch
+    - Make _Resample_ box unchecked
+      - We don't want to change the total resolution of the image
 - ⭐Change the image size or Straighten the image
-    - Crop (*Crop* tool)
-        - Options
-            - Leave *Delete Cropped Pixels* unchecked
-                - To re-crop anytime you want
-            - *Straighten* the cropped image
-        - Hold down `Alt` to change size at the equal proportion horizontally or vertically
+  - Crop (_Crop_ tool)
+    - Options
+      - Leave _Delete Cropped Pixels_ unchecked
+        - To re-crop anytime you want
+      - _Straighten_ the cropped image
+    - Hold down `Alt` to change size at the equal proportion horizontally or vertically
 
 ### Canvas size
-- Expand the canvas (*Image > Canvas Size*)
-    - Check *Relative*
-        - To set the amount of pixels added to the canvas
-    - To add size on one side (*Anchor*)
-        - ![[z-Assets/Paste image 1697202337211image.png]]
+
+- Expand the canvas (_Image > Canvas Size_)
+  - Check _Relative_
+    - To set the amount of pixels added to the canvas
+  - To add size on one side (_Anchor_)
+    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697202337211image.png]]
 - Change canvas extension color
-    - ![[z-Assets/Paste image 1697202479782image.png]]
+  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697202479782image.png]]
 
 ## Layer
 
 ### Basics
+
 - ✅ Duplicate a layer
-    - `Ctrl J`
+  - `Ctrl J`
 - create a new layer
-    - `ctrl` +`shift` + `N`
+  - `ctrl` +`shift` + `N`
 - Change layer order
-- change layer *opacity*
+- change layer _opacity_
 - delete a layer.
 
-### Add images to a layered design (*File> Place Embeded*)
+### Add images to a layered design (_File> Place Embeded_)
+
 - Automatically add layer to each added image
-- Paint on added photo (*Brush* tool)
-    - Click OK to rasterize the photo
+- Paint on added photo (_Brush_ tool)
+  - Click OK to rasterize the photo
 
-### ⭐Background layer (*locked*)
+### ⭐Background layer (_locked_)
+
 - can’t be moved in the Document window or rearranged in the Layers panel, and some editing functions won’t work on it.
-- Change background layer to a regular layer (*unlock*)
+- Change background layer to a regular layer (_unlock_)
 - ✅Add a new background layer (white)
-    - *Edit > Fill*
-    - *Layer > Background from layer*
+  - _Edit > Fill_
+  - _Layer > Background from layer_
 
-### ⭐ *Layer Style*
+### ⭐ _Layer Style_

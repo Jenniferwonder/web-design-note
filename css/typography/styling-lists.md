@@ -1,18 +1,17 @@
 ---
-Title: Styling Lists
-Type: D
+title: Styling Lists
+type: D
 tags:
   - CSS
 status:
 DateStarted: 2023-09-22
 DateModified: 2023-09-23
-mindmap-plugin: basic
-DateDone: 2023-09-22T00:00:00.000+08:00
-Comment: ⭐⭐
-DateReviewed: 2023-09-23T00:00:00.000+08:00
-Reviewed: 1
-Difficulty: Hard
-Topic: Text
+
+comment: ⭐⭐
+Datereviewed: 2023-09-23T00:00:00.000+08:00
+reviewed: 1
+difficulty: Hard
+topic: Text
 ---
 
 # Styling Lists
@@ -23,13 +22,13 @@ Topic: Text
 
 - `ol`
 - 📌have a top and bottom margin of 16px (1em) and a padding-left of 40px (2.5em)
-- ![](z-Assets/Paste%20image%201695359623245image.png)
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695359623245image.png)
 
 ### **Unordered list**
 
 - `ul`
 - 📌have a top and bottom margin of 16px (1em) and a padding-left of 40px (2.5em)
-- ![](z-Assets/Paste%20image%201695359559748image.png)
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695359559748image.png)
 
 ### **List element**
 
@@ -45,7 +44,7 @@ Topic: Text
   - description details in `dl`, after `dt`
   - 📌have margin-left of 40px (2.5em).
 - 📌has a top and bottom margin of 16px (1em), but no padding set.
-- ![](z-Assets/Paste%20image%201695359663654image.png)
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695359663654image.png)
 
 ## List Spacing
 
@@ -81,9 +80,9 @@ Topic: Text
 ### **`list-style-position`**
 
 - **`inside`**
-  - ![](z-Assets/Paste%20image%201695361307475image.png)
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695361307475image.png)
 - **`outside`**
-  - ![](z-Assets/Paste%20image%201695361275290image.png)
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695361275290image.png)
 
 ### Use a custom bullet image
 
@@ -91,7 +90,7 @@ Topic: Text
   - 📌use a custom image for your bullet
   - ⚠️is a bit limited in terms of controlling the position, size, etc. of the bullets (better using `background` properties)
   - `list-style-image: url(star.svg);`
-- ![](z-Assets/Paste%20image%201695361727361image.png)
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695361727361image.png)
 
 ### List-style shorthand
 

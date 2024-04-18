@@ -1,22 +1,20 @@
 ---
-Type: Note
-Title: 01-弹性盒布局方法总结：Medium 主页
+type: Note
+title: 01-弹性盒布局方法总结：Medium 主页
 tags:
   - TechSkills
-status: 
+status:
 DateStarted: 2022-11-11
 DateModified: 2023-11-30
-sr-due: 2023-07-02
-sr-interval: 4
-sr-ease: 277
 ---
-- Up:: [S-TailwindCSS](S-TailwindCSS.md), [React Projects](React%20Projects)
+
+- Up:: [S-TailwindCSS](S-TailwindCSS.md), [React Projects](React-Projects)
 
 创作时间：2022 年 11 月 11 日
 
 ## 效果展示
 
-![1108-Blog.gif](https://cdn.nlark.com/yuque/0/2022/gif/29677165/1667878225708-5cec9e05-5afe-48a0-8b92-8bca6cc384bd.gif#averageHue=%23efc800&clientId=u5e673f1f-7ab0-4&crop=0&crop=0&crop=1&crop=1&from=drop&height=254&id=ube1ff0d6&margin=%5Bobject%20Object%5D&name=1108-Blog.gif&originHeight=1141&originWidth=2518&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3966181&status=done&style=none&taskId=uc9f6bccc-91d0-4dfe-86ec-bbd40bff4b4&title=&width=561)
+![1108-Blog.gif](https://cdn.nlark.com/yuque/0/2022/gif/29677165/1667878225708-5cec9e05-5afe-48a0-8b92-8bca6cc384bd.gif#averageHue=%23efc800&clientId=u5e673f1f-7ab0-4&crop=0&crop=0&crop=1&crop=1&from=drop&height=254&id=ube1ff0d6&margin=%5Bobject-Object%5D&name=1108-Blog.gif&originHeight=1141&originWidth=2518&originalType=binary&ratio=1&rotation=0&showTitle=false&size=3966181&status=done&style=none&taskId=uc9f6bccc-91d0-4dfe-86ec-bbd40bff4b4&title=&width=561)
 
 ## 技术栈
 

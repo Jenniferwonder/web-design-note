@@ -1,45 +1,43 @@
 ---
-Title: Border-Box Explained
-Type: D
+title: Border-Box Explained
+type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
 DateModified: 2024-01-09
-DateDo:
-DateDone: 2024-01-09T00:00:00.000+08:00
-DateDue:
+
 status:
-Reviewed: 1
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Topic: Box
-Difficulty: Good
-Comment: ⭐⭐
+reviewed: 1
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+topic: Box
+difficulty: Good
+comment: ⭐⭐
 ---
 
 ## Border-Box Explained
 
 ### ⭐Standard CSS Box Model
 
-- ![](<z-Assets/CSS%20Box%20Model%20(盒模型)-Standard%20CSS%20Box.png>)
+- ![](<https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/CSS-Box-Model-(盒模型)-Standard-CSS-Box.png>)
 
 ### ⭐Alternative CSS Box Model
 
 - border-box
 - `box-sizing: border-box`
-  - ![](<z-Assets/CSS%20Box%20Model%20(盒模型)-Border%20Box.png>)
-- 📌[Base Styles](Base%20Styles.md)
+  - ![](<https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/CSS-Box-Model-(盒模型)-Border-Box.png>)
+- 📌[Base Styles](Base-Styles.md)
 - 📌To use the alternative box model for all of your elements (which is a common choice among developers)
 
   ```css
-    html {
-    	box-sizing: border-box;
-    }
-    *,
-    *::before,
-    *::after {
-    	box-sizing: inherit;
-    }
-    ```
+  html {
+  	box-sizing: border-box;
+  }
+  *,
+  *::before,
+  *::after {
+  	box-sizing: inherit;
+  }
+  ```
 
   - separates the reset from the global styling of all elements
     - explicitly sets the box-sizing for the root element and lets the rest inherit it

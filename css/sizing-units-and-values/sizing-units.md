@@ -1,20 +1,18 @@
 ---
-DateDo: 
-DateDue: 
-Title: Sizing Units
-Type: D
+title: Sizing Units
+type: D
 tags:
   - CSS
 DateStarted: 2023-09-21
 DateModified: 2024-01-09
-status: 
-Comment: ⭐⭐⭐
-DateDone: 2024-01-09T00:00:00.000+08:00
-DateReviewed: 2024-01-09
-Reviewed: 2
-Topic:
+status:
+comment: ⭐⭐⭐
+
+Datereviewed: 2024-01-09
+reviewed: 2
+topic:
   - Sizing
-Difficulty: Good
+difficulty: Good
 ---
 
 # Sizing Units
@@ -23,25 +21,28 @@ Difficulty: Good
 
 ### size defined by **its content**, not by **any CSS formatting**
 
-## 🏷️[Absolute length units (For print styles)](Absolute%20length%20units%20(For%20print%20styles).md)
+## 🏷️[Absolute length units (For print styles)](<Absolute-length-units-(For-print-styles).md>)
 
 ## Responsive Size
 
-### 🏷️[Relative length units (For responsive design)](Relative%20length%20units%20(For%20responsive%20design).md)
+### 🏷️[Relative length units (For responsive design)](<Relative-length-units-(For-responsive-design).md>)
+
 - Viewport units
-    - The viewport is **the visible area of your page in the browser you are using to view a site**
-    - `vw`
-    - `vh`
+  - The viewport is **the visible area of your page in the browser you are using to view a site**
+  - `vw`
+  - `vh`
 
 ### Using percentages
+
 - always set relative to its parent's value
 
 ### min- and max- sizes
+
 - This technique is used to make images responsive
 - Reference: [Responsive Image Techniques](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
-### 🏷️[CSS Cascade Specificity and Inheritance (优先级原理)](CSS%20Cascade%20Specificity%20and%20Inheritance%20(优先级原理).md)
+### 🏷️[CSS Cascade Specificity and Inheritance (优先级原理)](<CSS-Cascade-Specificity-and-Inheritance-(优先级原理).md>)
 
 ## Other values and units
 
-### 🏷️[CSS Values and Units](CSS%20Values%20and%20Units.md)
+### 🏷️[CSS Values and Units](CSS-Values-and-Units.md)

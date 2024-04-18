@@ -1,19 +1,17 @@
 ---
-DateDue: 
-Title: Border Radius (Rounded Corners)
-Type: D
+title: Border Radius (Rounded Corners)
+type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
 DateModified: 2024-01-10
-DateDo: 
-DateDone: 2024-01-09T00:00:00.000+08:00
-status: 
-mindmap-plugin: basic
-Topic: Borders
-Reviewed: 1
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Difficulty: Good
+
+status:
+
+topic: Borders
+reviewed: 1
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+difficulty: Good
 ---
 
 # Border Radius (Rounded Corners)

@@ -1,11 +1,10 @@
 ---
-Title: ⭐Styles
-Type: D
-tags: 
-status: 
+title: ⭐Styles
+type: D
+tags:
+status:
 DateStarted: 2023-10-11
 DateModified: 2023-10-12
-mindmap-plugin: basic
 ---
 
 # Styles

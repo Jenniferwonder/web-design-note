@@ -1,17 +1,17 @@
 ---
-Title: CSS Images, media and form elements
-Type: D
+title: CSS Images, media and form elements
+type: D
 tags:
   - CSS
-status: 
+status:
 DateStarted: 2023-09-21
 DateModified: 2023-09-23
-DateDone: 2023-09-21T00:00:00.000+08:00
-Difficulty: Good
-Reviewed: 2
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Comment: ⭐⭐⭐
-Topic:
+
+difficulty: Good
+reviewed: 2
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+comment: ⭐⭐⭐
+topic:
   - Sizing
 ---
 
@@ -43,8 +43,8 @@ Topic:
 ### `object-fit`
 
 - `object-fit: cover`
-  - ![](z-Assets/Paste%20image%201695297488732image.png)
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695297488732image.png)
 - `object-fit: contain`
-  - ![](z-Assets/Paste%20image%201695297501729image.png)
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695297501729image.png)
 - `object-fit: fill`
   - fill the box without keeping aspect ratio

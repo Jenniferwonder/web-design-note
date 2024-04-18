@@ -1,10 +1,10 @@
 ---
-Title: 灵感板 MoodBoard
+title: 灵感板 MoodBoard
 tags: Design
-status: 
+status:
 DateStarted: 2022-11-22 Tue
 DateModified: 2023-10-13
-due: 
+due:
 Progress: NaN%
 ---
 
@@ -22,5 +22,5 @@ Progress: NaN%
 - Chrome
   - `ctrl`+`shift`+`I`
   - `ctrl`+`shift`+`P`
-  - Type: "Capture full-size screenshot".
+  - type: "Capture full-size screenshot".
 - Chrome extension: GoFullPage `alt`+`shift`+`P`

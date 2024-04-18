@@ -1,18 +1,18 @@
 ---
-Title: Floats
-Type: D
+title: Floats
+type: D
 tags:
   - CSS
-status: 
+status:
 DateStarted: 2023-09-25
 DateModified: 2023-09-25
-DateDone: 2023-09-25T00:00:00.000+08:00
-Difficulty: Hard
-Topic:
+
+difficulty: Hard
+topic:
   - Layout
-Reviewed: 1
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Comment: ⭐⭐
+reviewed: 1
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+comment: ⭐⭐
 ---
 
 # Floats
@@ -25,7 +25,7 @@ Comment: ⭐⭐
 
 ### Before & After Clearing Floats
 
-- ![](O-CSS-Before%20clearing%20floats.png) ![](O-CSS-After%20clearing%20floats.png)
+- ![](O-CSS-Before-clearing-floats.png) ![](O-CSS-After-clearing-floats.png)
 
 ### `clear`
 
@@ -39,10 +39,10 @@ Comment: ⭐⭐
 ### `display: flow-root`
 
 - to create a block formatting context (BFC) without using hacks — there will be no unintended consequences when you use it.
-- 🏷️[Box Display Types (Block and Inline Boxes)](<Box%20Display%20Types%20(Block%20and%20Inline%20Boxes).md>)
+- 🏷️[Box Display Types (Block and Inline Boxes)](<Box-Display-Types-(Block-and-Inline-Boxes).md>)
 
 ### Before & After using `display: flow-root`
 
-- ![](O-CSS-Before%20and%20after%20using%20float-root.png)
+- ![](O-CSS-Before-and-after-using-float-root.png)
 
 ## 📌[Floats reference](https://developer.mozilla.org/en-US/docs/Web/CSS/float)

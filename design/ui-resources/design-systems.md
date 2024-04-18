@@ -1,15 +1,15 @@
 ---
-Title: S-Design Systems
-Type: S
-tags: 
+title: S-Design Systems
+type: S
+tags:
 DateStarted: 2024-01-04
 DateModified: 2024-01-04
-DateDo: 
-DateDone: 
-DateDue: 
+
 status:
 ---
+
 # S-Design Systems
+
 ## Design Systems & Style Guides
 
 > Design systems, style guides, toolkits, docs. Some of these are design guides for top companies/websites
@@ -57,37 +57,44 @@ status:
 | [Patterns](https://www.patterns.dev)                                                                     | A resource to improve on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.                     |
 
 ## 设计语言与设计系统
+
 #### 1. Fluent Design System
+
 > [Microsoft Design|Fluent Design System](https://www.microsoft.com/design/fluent/#/) 中文翻译为流畅设计体系，是微软于 2017 年开发的设计语言。流畅设计是 Microsoft Design Language 2 的改版，其中包含为所有面向 Windows 10 设备和平台设计的软件中的**设计和交互**的指导原则。该体系基于五个关键元素：**光感、深度、动效、材质和缩放**。新的设计语言包括更多对**动效、深度及半透明效果的**使用。过渡到流畅设计体系是一个长期项目，没有具体的完成目标，但是从创作者更新以来，新设计语言的元素已被融入到个别应用程序中。它将在未来的 Windows 10 秋季创作者更新中更广泛地使用，但微软也表示，该设计体系不会在秋季创作者更新内完成。微软于 2017 年 5 月 11 日的 Microsoft Build 2017 开发者大会上公开了该设计体系。
 
-- *What’s new and coming for Windows UI: XAML and composition* 从概念上讲了一下 Fluent Design System 的各个部分。
-- *Introducing Fluent Design* ，介绍了 Fluent Design System 的各个部分。
+- _What’s new and coming for Windows UI: XAML and composition_ 从概念上讲了一下 Fluent Design System 的各个部分。
+- _Introducing Fluent Design_ ，介绍了 Fluent Design System 的各个部分。
 - Build 2018 上的一些微软的 YouTube 分享
-	- Fluent Design: Evolving our Design System : Build 2018
-	- Microsoft Build 2018 - Fluent Design System Demo
-	- Microsoft Build 2018 - Fluent Design System Evolution
-	- Fluent Design System inside of Microsoft: Office : Build 2018
+  - Fluent Design: Evolving our Design System : Build 2018
+  - Microsoft Build 2018 - Fluent Design System Demo
+  - Microsoft Build 2018 - Fluent Design System Evolution
+  - Fluent Design System inside of Microsoft: Office : Build 2018
+
 #### 2. Material Design
->Material Design 中文翻译为质感设计，或是材质设计、材料设计。这是由 Google 开发的设计语言。扩展于 Google Now 的“卡片”设计，Material Design 基于网格的布局、响应动画与过渡、填充、深度效果（如光线和阴影）。设计师马蒂亚斯·杜阿尔特（Matías Duarte）解释说：“与真正的纸张不同，我们的数字材质可以智能地扩大和变形。材质具有实体的表面和边缘。接缝和阴影表明组件的含义。”Google 指出他们的新设计语言基于纸张和油墨。
+
+> Material Design 中文翻译为质感设计，或是材质设计、材料设计。这是由 Google 开发的设计语言。扩展于 Google Now 的“卡片”设计，Material Design 基于网格的布局、响应动画与过渡、填充、深度效果（如光线和阴影）。设计师马蒂亚斯·杜阿尔特（Matías Duarte）解释说：“与真正的纸张不同，我们的数字材质可以智能地扩大和变形。材质具有实体的表面和边缘。接缝和阴影表明组件的含义。”Google 指出他们的新设计语言基于纸张和油墨。
+
 - [Material Design](https://m3.material.io/)
 - Material Design 于 2014 年的 Google I/O 大会上发布
-	- [Google I/O 2014 - Material witness: How Android material applications work - YouTube](https://www.youtube.com/watch?v=97SWYiRtF0Y)
-	- 其可借助 v7 appcompat 库用于 Android 2.1 及以上版本，几乎支持所有 2009 年以后制造的 Android 设备。随后，Material Design 扩展到 Google 的网络和移动产品阵列，提供一致的跨平台和应用程序体验。Google 还为第三方开发人员发布了 API，开发人员可将质感设计应用到他们的应用程序中。
+  - [Google I/O 2014 - Material witness: How Android material applications work - YouTube](https://www.youtube.com/watch?v=97SWYiRtF0Y)
+  - 其可借助 v7 appcompat 库用于 Android 2.1 及以上版本，几乎支持所有 2009 年以后制造的 Android 设备。随后，Material Design 扩展到 Google 的网络和移动产品阵列，提供一致的跨平台和应用程序体验。Google 还为第三方开发人员发布了 API，开发人员可将质感设计应用到他们的应用程序中。
 - Material UI 的工程实现
-	- [Material Design Lite](https://getmdl.io/)
-		- 这是 Google 官方的框架，简单易用。
-	- [Documentation - Materialize](https://materializecss.com/)
-		- 一组类似于 Bootstrap 的前端 UI 框架。
-	- [MUI Core: Ready to use components, free forever](https://mui.com/core/)
-		- 基于 Google Material Design 的 React 组件实现。
-	- [MUI - Material Design CSS Framework](https://www.muicss.com/)
-		- 轻量级的 CSS 框架，遵循 Google 的 Material Design 设计方针
+  - [Material Design Lite](https://getmdl.io/)
+    - 这是 Google 官方的框架，简单易用。
+  - [Documentation - Materialize](https://materializecss.com/)
+    - 一组类似于 Bootstrap 的前端 UI 框架。
+  - [MUI Core: Ready to use components, free forever](https://mui.com/core/)
+    - 基于 Google Material Design 的 React 组件实现。
+  - [MUI - Material Design CSS Framework](https://www.muicss.com/)
+    - 轻量级的 CSS 框架，遵循 Google 的 Material Design 设计方针
+
 #### 3. Other Design Systems
+
 - [Design - Apple Developer](https://developer.apple.com/design/)
-	- 苹果的各种设备的设计规范和指导，一方面可以让你的 App 能和苹果的 UI 融合在一起，另一方面，你也可以从中看到苹果的审美和思维方式。
+  - 苹果的各种设备的设计规范和指导，一方面可以让你的 App 能和苹果的 UI 融合在一起，另一方面，你也可以从中看到苹果的审美和思维方式。
 - [IBM Design Language](https://www.ibm.com/design/language/)
-	- IBM 公司的这个设计语言的确比较出众。所以，在这里推荐一下。
+  - IBM 公司的这个设计语言的确比较出众。所以，在这里推荐一下。
 - [Lightning Design System](https://www.lightningdesignsystem.com/)
-	- 在 Salesforce 生态系统中用于创建统一 UI 的设计模式、组件和指南的集合，是一个企业级的产品。
+  - 在 Salesforce 生态系统中用于创建统一 UI 的设计模式、组件和指南的集合，是一个企业级的产品。
 - [Design at Meta is dedicated to what's new in design](https://design.facebook.com/)
-	- Facebook Design - What’s on our mind? ，Facebook 的设计师们收集的一系列的文章、视频和资源。很不错哦。
+  - Facebook Design - What’s on our mind? ，Facebook 的设计师们收集的一系列的文章、视频和资源。很不错哦。

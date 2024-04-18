@@ -1,16 +1,13 @@
 ---
-DateDue:
-Title: "Accessibility "
-Type: D
-Topic: 
+title: "Accessibility "
+type: D
+topic:
 tags:
   - CSS
 DateStarted: 2024-01-22
 DateModified: 2024-01-22
-DateDo: 
-DateDone: 
-status: 
-mindmap-plugin: basic
+
+status:
 ---
 
 # Accessibility

@@ -1,5 +1,5 @@
 ---
-Title: Logo
+title: Logo
 tags: Design
 DateStarted: 2022-12-16
 due: null

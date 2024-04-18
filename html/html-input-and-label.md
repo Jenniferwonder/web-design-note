@@ -1,6 +1,6 @@
 ---
-Type: Note
-Title: HTML-Input and label
+type: Note
+title: HTML-Input and label
 tags: HTML
 DateStarted: 2022-12-06
 DateModified: 2023-07-08
@@ -42,6 +42,7 @@ guessField.value = "";
 ```
 
 ## Basics
+
 - type
 - id
 - name

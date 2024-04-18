@@ -1,14 +1,12 @@
 ---
-DateDue: 
-Title: "Media Query "
-Type: D
-Topic: 
+title: "Media Query "
+type: D
+topic:
 tags:
   - CSS
 DateStarted: 2024-01-22
 DateModified: 2024-01-22
-DateDo: 
-DateDone: 
+
 status:
 ---
 
@@ -35,33 +33,32 @@ status:
 ## Specifies a condition/ conditions
 
 ### `@media screen
+
     and (min-width: 600px)
     and (orientation: landscape)`
 
 ## Conditionally loading stylesheets
 
 ```html
-<link rel="stylesheet"
-      href="style.css"
-      media="screen">
-<link rel="stylesheet"
-      href="print.css"
-      media="print">
+<link rel="stylesheet" href="style.css" media="screen" />
+<link rel="stylesheet" href="print.css" media="print" />
 ```
-
 
 ## Use Cases
 
 ### `@media screen and (min-width: 30em) {body {background-color: blue;}}`
+
 - defines a blue background if the browser viewport is wider than 30em
 
 ### `@media (orientation: landscape)`
 
-### 🏷️[Base Styles](Base%20Styles.md)
-- 🏷️[Color Scheme](Color%20Scheme.md)
-    - `@media (prefers-color-scheme: dark)`
+### 🏷️[Base Styles](Base-Styles.md)
 
-### 🏷️[CSS Animation & Transition](CSS%20Animation%20&%20Transition.md)
+- 🏷️[Color Scheme](Color-Scheme.md)
+  - `@media (prefers-color-scheme: dark)`
+
+### 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition.md)
+
 - `@media(prefers-reduced-motion: reduce/ no-preference)`
 
 ## Tailwind Customizing Screens

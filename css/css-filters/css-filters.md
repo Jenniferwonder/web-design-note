@@ -1,17 +1,15 @@
 ---
-DateDue: 
-Title: "CSS Filters "
-Type: D
-Topic:
+title: "CSS Filters "
+type: D
+topic:
   - Filters
 tags:
   - CSS
 DateStarted: 2024-01-19
 DateModified: 2024-01-19
-DateDo: 
-DateDone: 
-status: 
-Difficulty: Hard
+
+status:
+difficulty: Hard
 ---
 
 # CSS Filters

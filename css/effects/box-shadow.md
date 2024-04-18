@@ -1,19 +1,17 @@
 ---
-DateDue: 
-Title: Box Shadow
-Type: D
+title: Box Shadow
+type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
 DateModified: 2024-01-10
-DateDo: 
-DateDone: 2024-01-09T00:00:00.000+08:00
-status: 
-Topic:
+
+status:
+topic:
   - Filters
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Reviewed: 1
-Difficulty: Good
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+reviewed: 1
+difficulty: Good
 ---
 
 # Box Shadow

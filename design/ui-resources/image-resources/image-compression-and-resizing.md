@@ -1,12 +1,13 @@
 ---
-Title: S-Image Compression and Resizing
-Type: S
+title: S-Image Compression and Resizing
+type: S
 tags:
   - Design
-status: 
+status:
 DateStarted: 2023-10-13
 DateModified: 2023-10-13
 ---
+
 ## S-Image Compression and Resizing
 
 > Websites that allow you to compress large images

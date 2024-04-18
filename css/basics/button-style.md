@@ -1,18 +1,16 @@
 ---
-DateDue: 
-Title: "Button style "
-Type: D
+title: "Button style "
+type: D
 tags:
   - CSS
 DateStarted: 2024-01-16
 DateModified: 2024-01-16
-DateDo: 
-DateDone: 
-status: 
-mindmap-plugin: basic
-Topic: Basics
-Difficulty: Hard
-Comment: ⭐⭐
+
+status:
+
+topic: Basics
+difficulty: Hard
+comment: ⭐⭐
 ---
 
 # Button style
@@ -34,4 +32,5 @@ Comment: ⭐⭐
 ### `id=""`
 
 ### used along
+
 - `<label for = "id-value"> </label>`

@@ -1,20 +1,20 @@
 ---
-Title: Basic Selectors
-Type: D
+title: Basic Selectors
+type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
 DateModified: 2024-01-09
-DateDo: 
-DateDone: 2024-01-09T00:00:00.000+08:00
-DateDue: 
-status: 
-Reviewed: 1
-DateReviewed: 2024-01-09T00:00:00.000+08:00
-Topic: Selectors
-Difficulty: Good
+
+status:
+reviewed: 1
+Datereviewed: 2024-01-09T00:00:00.000+08:00
+topic: Selectors
+difficulty: Good
 ---
+
 # Basic Selectors
+
 ## Selector List
 
 ### combine these into a selector list, by adding a **comma** between them
@@ -26,10 +26,12 @@ Difficulty: Good
 ### `*`
 
 ### reset stylesheets
+
 - to remove the margins on all elements
 - strip out all of the browser styling
 
 ### make your selectors easier to read, making it more obvious what the selector is doing
+
 - `article *:first-child`{ }
 
 ### Global Style (全局样式设置)
@@ -51,8 +53,9 @@ Difficulty: Good
 ### It can select an element that has the id set on it
 
 ### To only target the element without applying the block rules, precede the ID with a Type Selector
+
 - `h1#heading {color: purple;}`
-    - ‼️ The color will not be set to purple
+  - ‼️ The color will not be set to purple
 
 ### an ID has high specificity. It will overrule most other selectors.
 
@@ -65,8 +68,10 @@ Difficulty: Good
 ### select a subset of the elements without changing the others
 
 ### Targeting classes on particular elements
+
 - `h1.highlight {background-color: pink;}`
 - The rule will only apply to that particular element and class combination
 
 ### Target an element if it has more than one class applied
+
 - `.notebox.warning {border-color: orange; font-weight: bold;}`

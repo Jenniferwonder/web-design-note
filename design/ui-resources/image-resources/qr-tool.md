@@ -1,10 +1,10 @@
 ---
-Title: QR Tool
+title: QR Tool
 tags: Content-Making
 DateStarted: 2022-12-16
-due: 
+due:
 DateModified: 2023-11-13
-status: 
+status:
 Progress: NaN%
 ---
 

@@ -1,12 +1,10 @@
 ---
-Title: Figma
+title: Figma
 tags:
   - Design
-status: 
+status:
 DateStarted: 2022-11-28 Mon
 DateModified: 2023-11-13
-DateDue: 2022-11-28 Mon
-mindmap-plugin: basic
 ---
 
 # Figma

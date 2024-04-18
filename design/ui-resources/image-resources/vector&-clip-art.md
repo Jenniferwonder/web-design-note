@@ -1,5 +1,5 @@
 ---
-Title: Vectors & Clip Art
+title: Vectors & Clip Art
 tags: Design
 DateStarted: 2022-12-16
 due: null

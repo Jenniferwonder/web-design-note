@@ -1,12 +1,10 @@
 ---
-Title: CSS Basics
-Type: D
+title: CSS Basics
+type: D
 tags:
 status:
 DateStarted: 2023-09-18T00:00:00.000+08:00
 DateModified: 2023-09-21
-mindmap-plugin: basic
-DateDone: 2023-09-18T00:00:00.000+08:00
 ---
 
 # CSS Basics
@@ -51,7 +49,7 @@ DateDone: 2023-09-18T00:00:00.000+08:00
 ### ❓What happens when a browser loads a webpage ^33dcf977-14ca-57a2
 
 - The browser parses the fetched CSS, and sorts the different rules by their selector types into different "buckets", e.g. element, class, ID, and so on. Based on the selectors it finds, it works out which rules should be applied to which nodes in the DOM, and attaches style to them as required (this intermediate step is called a render tree)
-- ![](z-Assets/O-CSS-Browser%20loads%20webpage.png)
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/O-CSS-Browser-loads-webpage.png)
 
 ### ❓What happens if a browser encounters CSS it doesn't understand? ^a07d7472-a8d6-6940
 
@@ -59,4 +57,4 @@ DateDone: 2023-09-18T00:00:00.000+08:00
 - This enables basic fallback styling.
   - It means that you can use new CSS as an enhancement
 
-### 🏷️[CSS Cascade Specificity and Inheritance (优先级原理)](<CSS%20Cascade%20Specificity%20and%20Inheritance%20(优先级原理).md>)
+### 🏷️[CSS Cascade Specificity and Inheritance (优先级原理)](<CSS-Cascade-Specificity-and-Inheritance-(优先级原理).md>)

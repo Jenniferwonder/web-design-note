@@ -1,15 +1,20 @@
 ---
-Title: R-Color-颜色与背景
-Type: S
+title: R-Color-颜色与背景
+type: S
 tags:
   - Design
 DateStarted: 2022-12-16
 DateModified: 2023-07-08
 ---
+
 # Color
+
 ## Palettes
-- [Trending Color Palettes - Coolors](https://coolors.co/palettes/trending)  
+
+- [Trending Color Palettes - Coolors](https://coolors.co/palettes/trending)
+
 ## Gradient Tool
+
 - https://angrytools.com/gradient/
 - [uiGradients - Beautiful colored gradients](https://uigradients.com/#CoolSky)
 

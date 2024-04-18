@@ -1,11 +1,10 @@
 ---
-Title: Color
-Type: D
-tags: 
-status: 
+title: Color
+type: D
+tags:
+status:
 DateStarted: 2023-10-10
 DateModified: 2023-10-11
-mindmap-plugin: basic
 ---
 
 # Color
@@ -29,15 +28,18 @@ mindmap-plugin: basic
 ### Offer selection of colors
 
 ### Simplify color palette
+
 - ❌too many
-    - Chaos
+  - Chaos
 - ❌too few
-    - Limit flexibility in design
+  - Limit flexibility in design
 
 ### 60-30-10 Rule
-- ![[z-Assets/Paste image 1696912682085image.png]]
+
+- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696912682085image.png]]
 
 ### Adapt to different themes
+
 - More than swapping colors but also involves shade variations for colors
 - Access colors against function needs
 
@@ -60,12 +62,13 @@ mindmap-plugin: basic
 ### Collect colors used in design
 
 ### Organizing colors
+
 - System for organizing different color styles
-    - Theme
-    - Function
-        - ![[z-Assets/Paste image 1696998709539image.png]]
-        - User color to define user habits
-    - Hue
+  - Theme
+  - Function
+    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696998709539image.png]]
+    - User color to define user habits
+  - Hue
 - Slashing naming convention
-    - function/style + description for any use cases
-        - ![[z-Assets/Paste image 1696998918976image.png]]
+  - function/style + description for any use cases
+    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696998918976image.png]]

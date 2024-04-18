@@ -1,10 +1,10 @@
 ---
-Title: Design and UI Tools
+title: Design and UI Tools
 tags: Design
 DateStarted: 2022-12-16
-due: 
+due:
 DateModified: 2023-11-13
-status: 
+status:
 Progress: NaN%
 ---
 

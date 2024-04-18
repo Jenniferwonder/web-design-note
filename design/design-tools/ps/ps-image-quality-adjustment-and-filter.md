@@ -1,11 +1,10 @@
 ---
-Title: PS-Image Quality Adjustment and Filter
-Type: 
-tags: 
+title: PS-Image Quality Adjustment and Filter
+type:
+tags:
 DateStarted: 2023-10-20
 DateModified: 2023-11-13
-status: 
-mindmap-plugin: basic
+status:
 ---
 
 # PS-Image Quality Adjustment and Filter
@@ -13,33 +12,37 @@ mindmap-plugin: basic
 ## Image Quality Adjustment and Filter
 
 ### Adjust brightness and contrast
-- *Image > Adjustments > Brightness/Contrast*
+
+- _Image > Adjustments > Brightness/Contrast_
 
 ### Adjust color vibrance
-- *Image > Adjustments > Vibrance*
-    - Increase all color intensity
-        - *Saturation*
-    - Increase color intensity except skin
-        - *Vibrance*
+
+- _Image > Adjustments > Vibrance_
+  - Increase all color intensity
+    - _Saturation_
+  - Increase color intensity except skin
+    - _Vibrance_
 
 ### Adjust hue and saturation
-- *Image > Adjustments > Hue/Saturation*
-    - *Hue*
-        - Controls the overall color
-    - *Lightness*
-    - To affect only one color
-        - Choose a category ![[z-Assets/Paste image 1697204916033image.png]]
-        - Or pick a color to affect ![[z-Assets/Paste image 1697205131768image.png]]
 
-### ⭐Apply *Filter*
-- *Filter > Filter gallery* to apply a combination of filters
-    - ⚠️Will make a permanent and non-editable change to the original
+- _Image > Adjustments > Hue/Saturation_
+  - _Hue_
+    - Controls the overall color
+  - _Lightness_
+  - To affect only one color
+    - Choose a category ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697204916033image.png]]
+    - Or pick a color to affect ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697205131768image.png]]
+
+### ⭐Apply _Filter_
+
+- _Filter > Filter gallery_ to apply a combination of filters
+  - ⚠️Will make a permanent and non-editable change to the original
 - ✅ Blur background
-    - Apply a blur filter as an editable Smart Filter
-        - *Filter > Convert for Smart Filters*
-        - *Filter > Blur > Gaussian blur*
-    - Duplicate the background layer > *Filter > Blur > Gaussian blur*
+  - Apply a blur filter as an editable Smart Filter
+    - _Filter > Convert for Smart Filters_
+    - _Filter > Blur > Gaussian blur_
+  - Duplicate the background layer > _Filter > Blur > Gaussian blur_
 
-### ⭐ Add *Adjustment Layer*
+### ⭐ Add _Adjustment Layer_
 
-### 📌 *Layer Style*
+### 📌 _Layer Style_

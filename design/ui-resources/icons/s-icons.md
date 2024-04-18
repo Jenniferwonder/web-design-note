@@ -1,16 +1,17 @@
 ---
-Title: Icon-图标
+title: Icon-图标
 tags:
   - Design
 DateStarted: 2022-12-16
-due: 
+due:
 DateModified: 2023-10-11
-status: 
+status:
 Progress: NaN%
 Related: "[[Iconography]]"
 ---
 
 ## Icons Resources
+
 > Resources for Icons including png, svg and more
 
 - [React Icons](https://react-icons.github.io/react-icons/)
@@ -20,10 +21,14 @@ Related: "[[Iconography]]"
 - `unplugin-icons/vite`
 - Flaticons
 - thenounproject. com
+
 ### Icons for readme
+
 [GitHub - tandpfun/skill-icons: Showcase your skills on your Github readme or resumé with ease ✨](https://github.com/tandpfun/skill-icons#readme)
 [GitHub - Ileriayo/markdown-badges: Badges for your personal developer branding, profile, and projects.](https://github.com/Ileriayo/markdown-badges)
+
 ### README Stats
+
 [GitHub - anuraghazra/github-readme-stats: :zap: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#themes)
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                                                 |
@@ -33,13 +38,13 @@ Related: "[[Iconography]]"
 | [Shapedfonts Iconclub](https://shapedfonts.com/iconclub/)                                                | 8000+ free icons                                                                                                                                            |
 | [Feather Icons](https://feathericons.com/)                                                               | Beautiful, customizable open source icons                                                                                                                   |
 | [Tabler Icons](https://tablericons.com/)                                                                 | 470+ highly customizable open source SVG icons                                                                                                              |
-|[Xicons](https://www.xicons.org/#/)| SVG Vue/React components integrated from fluentui-system-icons, ionicons, etc. (Vue3, Vue2, React, SVG).                                                    |
-|[Iconoir](https://iconoir.com/)| Free library of 900+ open source icons                                                                                                                      |
-|[Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands                                                                                                                      |
-|[Linear Icons](https://linearicons.com/free)| 1000+ Ultra crisp vector icons                                                                                                                              |
-|[Icons8](https://icons8.com/)| Free icons, photos, vectors and tools                                                                                                                       |
-|⭐[Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats                                                                                |
-|⭐[The Noun Project](https://thenounproject.com/)| Over 2 Million curated icons, created by a global community                                                                                                 |
+| [Xicons](https://www.xicons.org/#/)                                                                      | SVG Vue/React components integrated from fluentui-system-icons, ionicons, etc. (Vue3, Vue2, React, SVG).                                                    |
+| [Iconoir](https://iconoir.com/)                                                                          | Free library of 900+ open source icons                                                                                                                      |
+| [Simple Icons](https://simpleicons.org/)                                                                 | 1307 Free SVG icons for popular brands                                                                                                                      |
+| [Linear Icons](https://linearicons.com/free)                                                             | 1000+ Ultra crisp vector icons                                                                                                                              |
+| [Icons8](https://icons8.com/)                                                                            | Free icons, photos, vectors and tools                                                                                                                       |
+| ⭐[Flat Icon](https://www.flaticon.com/)                                                                 | The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats                                                                                |
+| ⭐[The Noun Project](https://thenounproject.com/)                                                        | Over 2 Million curated icons, created by a global community                                                                                                 |
 | [Iconscout](https://iconscout.com/)                                                                      | Free Download Icons illustrations stock photos at one place                                                                                                 |
 | [IconSear.ch](https://iconsear.ch/search.html)                                                           | Search engine with over 50,000 SVG icons indexed                                                                                                            |
 | [Nucleo App](https://nucleoapp.com/)                                                                     | Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid)                     |
@@ -54,7 +59,7 @@ Related: "[[Iconography]]"
 | [css.gg](https://css.gg/)                                                                                | 700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API                                                          |
 | [IconBros](https://www.iconbros.com)                                                                     | 7843+ free icons grouped in 182 collections                                                                                                                 |
 | [Material Design Icons](https://materialdesignicons.com/)                                                | An icon collection allowing designers and developers targeting various platforms to download icons in the format, color and size they need for any project. |
-|⭐[Heroicons](https://heroicons.dev/)| Free, open source icons from the creators of Tailwind CSS.                                                                                                  |
+| ⭐[Heroicons](https://heroicons.dev/)                                                                    | Free, open source icons from the creators of Tailwind CSS.                                                                                                  |
 | [Zondicons](https://www.zondicons.com/icons.html)                                                        | A set of free premium SVG icons for you to use on your digital products.                                                                                    |
 | [Endless Icons](http://endlessicons.com/)                                                                | A website offering a number of free icons. Icons are tagged and also compressed into kits.                                                                  |
 | [Icomoon](https://icomoon.io/app/)                                                                       | Browse 5500+ Free Icons. Add any set you wish to easily browse and search its icons.                                                                        |

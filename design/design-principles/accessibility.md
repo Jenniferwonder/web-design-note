@@ -1,11 +1,10 @@
 ---
-Title: Accessibility
-Type: 
-tags: 
+title: Accessibility
+type:
+tags:
 DateStarted: 2023-10-10
 DateModified: 2023-10-10
-status: 
-mindmap-plugin: basic
+status:
 ---
 
 # Accessibility

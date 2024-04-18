@@ -1,18 +1,17 @@
 ---
-Title: Fundamental text and font styling
-Type: D
+title: Fundamental text and font styling
+type: D
 tags:
   - CSS
 status:
 DateStarted: 2023-09-21T00:00:00.000+08:00
 DateModified: 2023-09-23
-mindmap-plugin: basic
-DateDone: 2023-09-22T00:00:00.000+08:00
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Comment: ⭐⭐⭐
-Reviewed: 3
-Difficulty: Hard
-Topic: Text
+
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+comment: ⭐⭐⭐
+reviewed: 3
+difficulty: Hard
+topic: Text
 ---
 
 # Typography
@@ -40,7 +39,7 @@ Topic: Text
 
 ### `font-size`
 
-- [CSS Values and Units](CSS%20Values%20and%20Units.md)
+- [CSS Values and Units](CSS-Values-and-Units.md)
 - ⭐Fluid/ responsive typography
   - `font-size: clamp(48px, 4.8vw, 64px);`
     - the minimum size
@@ -50,7 +49,7 @@ Topic: Text
 ### `line-height`
 
 - Line height
-- [CSS Values and Units](CSS%20Values%20and%20Units.md)
+- [CSS Values and Units](CSS-Values-and-Units.md)
 
 ### `font-weight`
 
@@ -102,8 +101,8 @@ Topic: Text
 - `text-shadow: 4px 4px 5px red;`
 - horizontal, vertical, blur radius, base color of the shadow
 - can apply multiple shadows
-  - ![](z-Assets/Paste%20image%201695304143112image.png)
-- 📌[Box Shadow](Box%20Shadow.md)
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695304143112image.png)
+- 📌[Box Shadow](Box-Shadow.md)
 
 ## Text Layout
 
@@ -117,11 +116,11 @@ Topic: Text
 
 ### `word-spacing`
 
-### [CSS Text Directions](CSS%20Text%20Directions.md)
+### [CSS Text Directions](CSS-Text-Directions.md)
 
 - `writing-mode`
 
-### [CSS Overflowing Content](CSS%20Overflowing%20Content.md)
+### [CSS Overflowing Content](CSS-Overflowing-Content.md)
 
 - `overflow-wrap`
 

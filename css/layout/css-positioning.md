@@ -1,18 +1,18 @@
 ---
-Title: CSS Positioning
-Type: D
+title: CSS Positioning
+type: D
 tags:
   - CSS
-status: 
+status:
 DateStarted: 2023-10-01
 DateModified: 2023-10-01
-Comment: ⭐⭐⭐
-Topic:
+comment: ⭐⭐⭐
+topic:
   - Layout
-DateDone: 2024-01-09T00:00:00.000+08:00
-Difficulty: Hard
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Reviewed: 1
+
+difficulty: Hard
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+reviewed: 1
 ---
 
 # CSS Positioning
@@ -92,4 +92,4 @@ Reviewed: 1
 
 ### `bottom/ top/ center/ left/ right/ left bottom/ ...`
 
-### 🏷️[CSS Image-Video and other Replaced elements](CSS%20Image-Video%20and%20other%20Replaced%20elements.md)
+### 🏷️[CSS Image-Video and other Replaced elements](CSS-Image-Video-and-other-Replaced-elements.md)

@@ -1,17 +1,15 @@
 ---
-DateDue: 
-Title: "Clipping "
-Type: D
-Topic: Clipping
+title: "Clipping "
+type: D
+topic: Clipping
 tags:
   - CSS
 DateStarted: 2024-01-19
 DateModified: 2024-01-19
-DateDo: 
-DateDone: 
-status: 
-mindmap-plugin: basic
-Difficulty: Hard
+
+status:
+
+difficulty: Hard
 ---
 
 # Clipping
@@ -25,15 +23,18 @@ Difficulty: Hard
 ### `none`
 
 ### URL
+
 - `clip-path: url(shapes.svg#cloud02)`
 
 ### Shapes
+
 - `inset()`
 - `circle()`
 - `ellipse()`
 - `polygon()`
 
 ### ❓Clip Boxes
+
 - `border-box`
 - `padding-box`
 - `margin-box`

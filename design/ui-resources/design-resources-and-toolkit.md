@@ -1,10 +1,10 @@
 ---
-Title: Design Guide and Toolkit
+title: Design Guide and Toolkit
 tags: Design
 DateStarted: 2022-12-16
-DateDue: 
+
 DateModified: 2023-01-19
-status: 
+status:
 ---
 
 ## Tools
@@ -15,7 +15,7 @@ status:
   - Stable Diffusion
 - [Figma](Figma)
 - [PS](PS)
-- [Design and UI Tools](Design%20and%20UI%20Tools)
+- [Design and UI Tools](Design-and-UI-Tools)
 
 ## Use Case
 
@@ -34,5 +34,6 @@ status:
 - 淘宝商品主图
 - 商品详情页
 
-## [Design Inspirations](Design%20Inspirations.md)
-## [Design Systems & Style Guides](Design%20Systems%20&%20Style%20Guides)
+## [Design Inspirations](Design-Inspirations.md)
+
+## [Design Systems & Style Guides](Design-Systems-&-Style-Guides)

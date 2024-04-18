@@ -1,12 +1,9 @@
 ---
-Title: UI Componenet Library
+title: UI Componenet Library
 tags: TechSkills
 DateStarted: 2022-12-16
-DateModified: 2023-03-13 
+DateModified: 2023-03-13
 status:
-sr-due: 2023-07-02
-sr-interval: 4
-sr-ease: 276
 ---
 
 ## UI Components & Kits
@@ -64,7 +61,7 @@ sr-ease: 276
 
 ## React UI Libraries
 
-![](zz-assets/Pasted%20image%2020230308094553.png)
+![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Pasted-image-20230308094553.png)
 
 > UI and component libraries for the React JavaScript framework
 
@@ -134,7 +131,7 @@ sr-ease: 276
 
 ## Vue UI Libraries
 
-![](zz-assets/Pasted%20image%2020230308094618.png)
+![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Pasted-image-20230308094618.png)
 
 > UI and component libraries for the Vue JavaScript framework
 
@@ -184,7 +181,7 @@ sr-ease: 276
 
 ## Svelte UI Libraries
 
-![](zz-assets/Pasted%20image%2020230308094823.png)
+![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Pasted-image-20230308094823.png)
 
 > UI and component libraries for the Svelte JavaScript compiler
 

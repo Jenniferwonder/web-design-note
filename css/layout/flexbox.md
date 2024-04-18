@@ -1,20 +1,18 @@
 ---
-DateDo: 
-DateDue: 
-Title: Flexbox
-Type: D
+title: Flexbox
+type: D
 tags:
   - CSS
-status: 
+status:
 DateStarted: 2023-09-25
 DateModified: 2024-01-19
-DateDone: 2023-09-25T00:00:00.000+08:00
-Comment: ⭐⭐⭐
-Difficulty: Hard
-Topic:
+
+comment: ⭐⭐⭐
+difficulty: Hard
+topic:
   - Layout
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Reviewed: 2
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+reviewed: 2
 ---
 
 # Flexbox

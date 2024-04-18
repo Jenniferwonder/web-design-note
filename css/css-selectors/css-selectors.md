@@ -1,20 +1,17 @@
 ---
-DateDo: 
-DateDue: 
-Title: CSS Selectors (选择器)
-Type: D
+title: CSS Selectors (选择器)
+type: D
 tags:
   - CSS
-status: 
+status:
 DateStarted: 2023-09-19
 DateModified: 2024-01-09
-mindmap-plugin: basic
-DateDone: 2023-09-19T00:00:00.000+08:00
-Comment: ⭐⭐⭐
-Difficulty: Good
-Reviewed: 3
-DateReviewed: 2024-01-09
-Topic: Selectors
+
+comment: ⭐⭐⭐
+difficulty: Good
+reviewed: 3
+Datereviewed: 2024-01-09
+topic: Selectors
 ---
 
 # CSS Selectors (选择器)
@@ -27,14 +24,14 @@ Topic: Selectors
 
 ## Application
 
-### 📌[Base Styles](Base%20Styles.md)
+### 📌[Base Styles](Base-Styles.md)
 
-## 🏷️[Basic Selectors](Basic%20Selectors.md)
+## 🏷️[Basic Selectors](Basic-Selectors.md)
 
-## 🏷️[Attribute Selectors](Attribute%20Selectors.md)
+## 🏷️[Attribute Selectors](Attribute-Selectors.md)
 
-## 🏷️[pseudo-classes selectors (伪类)](pseudo-classes%20selectors%20(伪类).md)
+## 🏷️[pseudo-classes selectors (伪类)](<pseudo-classes-selectors-(伪类).md>)
 
-## 🏷️[pseudo-elements selectors (伪元素)](pseudo-elements%20selectors%20(伪元素).md)
+## 🏷️[pseudo-elements selectors (伪元素)](<pseudo-elements-selectors-(伪元素).md>)
 
-## 🏷️[Combinators (Selector Combinations)](Combinators%20(Selector%20Combinations).md)
+## 🏷️[Combinators (Selector Combinations)](<Combinators-(Selector-Combinations).md>)

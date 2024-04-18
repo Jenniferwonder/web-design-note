@@ -1,12 +1,13 @@
 ---
-Title: HTML & CSS Templates
-Type: S
+title: HTML & CSS Templates
+type: S
 tags:
   - CSS
-status: 
+status:
 DateStarted: 2023-10-05
 DateModified: 2023-10-05
 ---
+
 ## HTML & CSS Templates
 
 > Websites that offer free beautiful website templates and themes of all types
@@ -21,7 +22,7 @@ DateModified: 2023-10-05
 | [Zerotheme](https://www.zerotheme.com/)                                                                   | HTML5, Bootstrap, Prestashop templates                                                         |
 | [HTML5xCSS3](https://www.html5xcss3.com/)                                                                 | Collection of wonderful templates in different categories                                      |
 | [Colorlib](https://colorlib.com/wp/templates/)                                                            | Almost any category of theme you can think of                                                  |
-|[Free CSS](https://www.free-css.com/free-css-templates)| Huge collection of free templates                                                              |
+| [Free CSS](https://www.free-css.com/free-css-templates)                                                   | Huge collection of free templates                                                              |
 | [Hubspot](https://www.hubspot.com/resources)                                                              | Templates, infographics, banners and much more                                                 |
 | [Mobirise](https://mobirise.com/html-templates/)                                                          | Great looking HTML5/CSS3 templates                                                             |
 | [Bootswatch](https://bootswatch.com/)                                                                     | Free themes for Bootstrap                                                                      |

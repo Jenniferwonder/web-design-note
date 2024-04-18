@@ -1,7 +1,7 @@
 ---
-Title: HTML-Link
+title: HTML-Link
 tags: HTML
-Type: Note
+type: Note
 DateStarted: 2022-12-06
 DateModified: 2023-07-08
 status: null
@@ -10,6 +10,7 @@ LeadTime: NaN
 Page-D: NaN
 Cards-D: NaN
 ---
+
 ## How to use?
 
 ```html

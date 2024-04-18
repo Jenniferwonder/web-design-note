@@ -1,7 +1,7 @@
 ---
-Title: R-Video Resources-视频资源
+title: R-Video Resources-视频资源
 tags: [Content-Making, Design]
-Type: Resource
+type: Resource
 DateStarted: 2022-12-16
 DateModified: 2023-07-08
 ---

@@ -1,15 +1,19 @@
 ---
-Title: R-Animation-动画
+title: R-Animation-动画
 tags:
   - CSS
-Type: S
+type: S
 DateStarted: 2022-12-16
 DateModified: 2023-07-08
 status:
 ---
+
 # CSS Animations
+
 > CSS animations to build awesome animations for websites and applications
+
 ### Resources
+
 - animista.net
 - [Ant Motion - Ant Design 的动效规范与组件](https://motion.ant.design/index-cn)
 
@@ -22,8 +26,8 @@ status:
 | [Zdog](https://zzz.dog/)                                                                                 | Round, flat, designer-friendly pseudo-3D engine for canvas & SVG                                                                                                               |
 | [CSShake](http://elrumordelaluz.github.io/csshake/)                                                      | CSShake delivers exactly what it says on the box — a CSS library designed specifically for shaking elements within your web page                                               |
 | [Hover.css](http://ianlunn.github.io/Hover/)                                                             | Hover.css is a CSS animation library designed for use with buttons and other UI elements in your website                                                                       |
-|[AniJS](http://anijs.github.io/) | AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure                                                              |
-|⭐[Animista](http://animista.net/)| CSS Animations On Demand                                                                                                                                                       |
+| [AniJS](http://anijs.github.io/)                                                                         | AniJS is an animation library that allows you to add animations to elements in a simple ‘sentence-like’ structure                                                              |
+| ⭐[Animista](http://animista.net/)                                                                       | CSS Animations On Demand                                                                                                                                                       |
 | [Tachyons-animate](https://github.com/anater/tachyons-animate)                                           | Tachyons itself is an atomic CSS library with a ton of utility classes for essentially designing anything by adding classes to what you need                                   |
 | [Sequence.js](https://www.sequencejs.com/)                                                               | Sequence.js is a JavaScript library that provides a responsive CSS framework for creating unique sliders, presentations, banners, and other step-based applications            |
 | [Infinite](https://tilomitra.github.io/infinite/)                                                        | These animations, like rotations and pulses, that are specifically designed to run and repeat forever                                                                          |
@@ -84,24 +88,24 @@ status:
 | [Vanta.js](https://www.vantajs.com/)                                                                     | Animated website backgrounds in a few lines of code.                                                                                       |
 | [Splitting.js](https://splitting.js.org/)                                                                | Splitting creates elements and adds CSS variables to unlock amazing possibilities for animating text, grids, and more!                     |
 
-
 ### Reference
+
 - [CodePen: Online Code Editor and Front End Web Developer Community](https://codepen.io/)
-	- 了解 Web 动画效果设计的第一步，最好的地方。这个网站不只是让人分享 HTML、CSS 和 JavaScript 代码的网站。其中也有很多分享样例都和动画效果有关。这个网站可以让你对动画效果有一些感性认识，当然还有代码供你参考。
+  - 了解 Web 动画效果设计的第一步，最好的地方。这个网站不只是让人分享 HTML、CSS 和 JavaScript 代码的网站。其中也有很多分享样例都和动画效果有关。这个网站可以让你对动画效果有一些感性认识，当然还有代码供你参考。
 - 动画效果设计的一些方法
-	- [Twelve basic principles of animation - Wikipedia](https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation)
-		- 这个方法论源自于迪士尼动画师奥利·约翰斯顿（Ollie Johnston）和弗兰克·托马斯（Frank Thomas）在 1981 年所出的《The Illusion of Life: Disney Animation》一书。这些法则已被普遍采用，至今仍与制作 3D 动画法则有关联。
-		- 对这个法则的解读和理解：[Fetching Title#fytb](https://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
+  - [Twelve basic principles of animation - Wikipedia](https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation)
+    - 这个方法论源自于迪士尼动画师奥利·约翰斯顿（Ollie Johnston）和弗兰克·托马斯（Frank Thomas）在 1981 年所出的《The Illusion of Life: Disney Animation》一书。这些法则已被普遍采用，至今仍与制作 3D 动画法则有关联。
+    - 对这个法则的解读和理解：[Fetching Title#fytb](https://www.creativebloq.com/advice/understand-the-12-principles-of-animation)
 - 动画设计指南和相关文章供你参考和学习
-	- [6 Animation Guidelines for UX Design | by José Torre | Prototypr](https://blog.prototypr.io/6-animation-guidelines-for-ux-design-74c90eb5e47a)
-		- 这是 Prototypr 公司的一个指南，其中主要指出，动画效果不是为了炫配，而是能**让你的 UI/UX 能活起来**，自然，不消耗时间，并且是生动故事型的动画效果。其中还推荐了如下几篇很不错的文章。
-	- [Transitional Interfaces | by Pasquale D’Silva | Medium](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3)
-	- [UI Animation and UX: A Not-So-Secret Friendship – A List Apart](https://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship/)
-	- [Invisible animation. Over-animated interfaces can have a… | by Steven Fabre | Medium](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5)
-	- [Creating Usability with Motion: The UX in Motion Manifesto | by Issara Willenskomer | UX in Motion | Medium](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
-	- [Designing Interface Animation – A List Apart](https://alistapart.com/article/designing-interface-animation/)
-		- 这篇文章同样说明，任何一个小动画都是要讲一个**微故事**的，而且这些微故事会和你的品牌和产品理念相融合。动画会给人更深的印象，让人们更容易记住你。这篇文章主要是讲品牌动画。
-	- [Animation principles in motion design | Freepik Blog](https://www.freepik.com/blog/animation-principles-in-motion-design/)
-		- 这篇文章有点像设计模式，给了一些动画效果的套路和演示。
-	- [Creating Usability with Motion: The UX in Motion Manifesto | by Issara Willenskomer | UX in Motion | Medium](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
-	- [Integrating Animation into a Design System – A List Apart](https://alistapart.com/article/integrating-animation-into-a-design-system/)
+  - [6 Animation Guidelines for UX Design | by José Torre | Prototypr](https://blog.prototypr.io/6-animation-guidelines-for-ux-design-74c90eb5e47a)
+    - 这是 Prototypr 公司的一个指南，其中主要指出，动画效果不是为了炫配，而是能**让你的 UI/UX 能活起来**，自然，不消耗时间，并且是生动故事型的动画效果。其中还推荐了如下几篇很不错的文章。
+  - [Transitional Interfaces | by Pasquale D’Silva | Medium](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3)
+  - [UI Animation and UX: A Not-So-Secret Friendship – A List Apart](https://alistapart.com/article/ui-animation-and-ux-a-not-so-secret-friendship/)
+  - [Invisible animation. Over-animated interfaces can have a… | by Steven Fabre | Medium](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5)
+  - [Creating Usability with Motion: The UX in Motion Manifesto | by Issara Willenskomer | UX in Motion | Medium](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
+  - [Designing Interface Animation – A List Apart](https://alistapart.com/article/designing-interface-animation/)
+    - 这篇文章同样说明，任何一个小动画都是要讲一个**微故事**的，而且这些微故事会和你的品牌和产品理念相融合。动画会给人更深的印象，让人们更容易记住你。这篇文章主要是讲品牌动画。
+  - [Animation principles in motion design | Freepik Blog](https://www.freepik.com/blog/animation-principles-in-motion-design/)
+    - 这篇文章有点像设计模式，给了一些动画效果的套路和演示。
+  - [Creating Usability with Motion: The UX in Motion Manifesto | by Issara Willenskomer | UX in Motion | Medium](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
+  - [Integrating Animation into a Design System – A List Apart](https://alistapart.com/article/integrating-animation-into-a-design-system/)

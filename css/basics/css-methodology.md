@@ -1,18 +1,16 @@
 ---
-DateDue: 
-Title: "CSS Methodology "
-Type: D
-Topic: Basics
+title: "CSS Methodology "
+type: D
+topic: Basics
 tags:
   - CSS
 DateStarted: 2024-01-19
 DateModified: 2024-01-19
-DateDo: 
-DateDone: 2024-01-19T00:00:00.000+08:00
-status: 
-mindmap-plugin: basic
-Difficulty: Good
-Comment: ⭐⭐
+
+status:
+
+difficulty: Good
+comment: ⭐⭐
 ---
 
 # CSS Methodology

@@ -1,11 +1,10 @@
 ---
-Title: PS
+title: PS
 tags:
   - Design
 DateStarted: 2023-01-19
 DateModified: 2023-11-13
-status: 
-mindmap-plugin: basic
+status:
 ---
 
 # PS

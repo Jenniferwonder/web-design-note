@@ -1,17 +1,15 @@
 ---
-DateDue: 
-Title: "Masks "
-Type: D
-Topic: Clipping
+title: "Masks "
+type: D
+topic: Clipping
 tags:
   - CSS
 DateStarted: 2024-01-19
 DateModified: 2024-01-19
-DateDo: 
-DateDone: 
-status: 
-mindmap-plugin: basic
-Difficulty: Hard
+
+status:
+
+difficulty: Hard
 ---
 
 # Masks

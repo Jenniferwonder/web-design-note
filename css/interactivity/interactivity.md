@@ -1,14 +1,12 @@
 ---
-DateDue: 
-Title: "Interactivity "
-Type: D
-Topic: 
+title: "Interactivity "
+type: D
+topic:
 tags:
   - CSS
 DateStarted: 2024-01-22
 DateModified: 2024-01-22
-DateDo: 
-DateDone: 
+
 status:
 ---
 
@@ -29,8 +27,9 @@ status:
 ## Scroll
 
 ### Animate on Scroll
+
 - https://developer.chrome.com/docs/css-ui/scroll-driven-animations
-- 🏷️[CSS Animation & Transition](CSS%20Animation%20&%20Transition.md)
+- 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition.md)
 
 ### Scroll Behavior
 

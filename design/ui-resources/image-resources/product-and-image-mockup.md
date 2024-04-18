@@ -1,5 +1,5 @@
 ---
-Title: Product and Image Mockup
+title: Product and Image Mockup
 tags: Design
 DateStarted: 2022-12-16
 due: null

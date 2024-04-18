@@ -1,12 +1,14 @@
 ---
-Title: Chart-图表
-Type: Resource
+title: Chart-图表
+type: Resource
 tags: Front-End
 DateStarted: 2022-12-16
 DateModified: 2023-07-08
 status:
 ---
+
 ## Tool
+
 [ChartGo](https://www.chartgo.com/)| Create charts and graphs online |
 
 ## [JS](JS) Chart Libraries

@@ -1,17 +1,17 @@
 ---
-Title: CSS @rules (at-rules)
-Type: D
+title: CSS @rules (at-rules)
+type: D
 tags:
   - CSS
-status: 
+status:
 DateStarted: 2023-09-18T00:00:00.000+08:00
 DateModified: 2023-09-25
-DateDone: 2023-09-18T00:00:00.000+08:00
-Difficulty: Hard
-Topic:
+
+difficulty: Hard
+topic:
   - Rules
-DateReviewed: 2024-01-19T00:00:00.000+08:00
-Reviewed: 2
+Datereviewed: 2024-01-19T00:00:00.000+08:00
+reviewed: 2
 ---
 
 # CSS @rules (at-rules)
@@ -37,20 +37,17 @@ Reviewed: 2
 }
 ```
 
-
-## 🏷️[Media Query](Media%20Query.md)
+## 🏷️[Media Query](Media-Query.md)
 
 ## `@supports`
 
 ### checks if a particular CSS feature is supported by the browser
-
 
 ```css
 @supports (display: grid) {
 	/* Styles for browsers that support CSS Grid */
 }
 ```
-
 
 ## `@page`
 
@@ -71,5 +68,4 @@ Reviewed: 2
 }
 ```
 
-
-### 🏷️[CSS Animation & Transition](CSS%20Animation%20&%20Transition.md)
+### 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition.md)

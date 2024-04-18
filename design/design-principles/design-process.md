@@ -1,12 +1,14 @@
 ---
-Title: Design Process
-Type: D
-tags: 
-status: 
+title: Design Process
+type: D
+tags:
+status:
 DateStarted: 2023-10-10
 DateModified: 2023-10-10
 ---
-## Design Process 
+
+## Design Process
+
 ![[Design Process-Double Diamond.png|475]]
 
 ### Discover/ Research (Why, Inspiration)

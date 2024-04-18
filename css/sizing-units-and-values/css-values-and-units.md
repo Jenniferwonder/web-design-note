@@ -1,19 +1,17 @@
 ---
-DateDo: 
-DateDue: 
-Title: CSS Values and Units
-Type: D
+title: CSS Values and Units
+type: D
 tags:
   - CSS
-status: 
+status:
 DateStarted: 2023-09-20
 DateModified: 2024-01-09
-DateDone: 2024-01-09T00:00:00.000+08:00
-Comment: ⭐⭐
-Difficulty: Hard
-DateReviewed: 2024-01-09
-Reviewed: 2
-Topic:
+
+comment: ⭐⭐
+difficulty: Hard
+Datereviewed: 2024-01-09
+reviewed: 2
+topic:
   - Sizing
 ---
 
@@ -25,7 +23,7 @@ Topic:
 
 ## Numeric value types
 
-### ![](z-Assets/O-CSS-Numeric%20value%20types.png)
+### ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/O-CSS-Numeric-value-types.png)
 
 ### `z-index`
 
@@ -52,7 +50,7 @@ Topic:
 - `ms`
   - 1/1000th of a second
 
-### 🏷️[Sizing Units](Sizing%20Units.md)
+### 🏷️[Sizing Units](Sizing-Units.md)
 
 ## Color
 
@@ -72,7 +70,7 @@ Topic:
 
 ### a gradient
 
-### 🏷️[CSS Image-Video and other Replaced elements](CSS%20Image-Video%20and%20other%20Replaced%20elements.md)
+### 🏷️[CSS Image-Video and other Replaced elements](CSS-Image-Video-and-other-Replaced-elements.md)
 
 ## Identifiers (keywords)
 
@@ -80,7 +78,7 @@ Topic:
 
 ### Position values
 
-- 🏷️[CSS Positioning](CSS%20Positioning.md)
+- 🏷️[CSS Positioning](CSS-Positioning.md)
 
 ## Strings
 
@@ -90,4 +88,4 @@ Topic:
 
 ## Functions
 
-### 🏷️[CSS Functions](CSS%20Functions.md)
+### 🏷️[CSS Functions](CSS-Functions.md)
