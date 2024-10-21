@@ -1,16 +1,21 @@
 ---
+category: Web Design
+comment: 
+aliases:
+  - Basic Selectors
+draft: false
 title: Basic Selectors
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-09
-
-status:
+DateModified: 2024-04-19
+status: 
 reviewed: 1
 Datereviewed: 2024-01-09T00:00:00.000+08:00
 topic: Selectors
 difficulty: Good
+linter-yaml-title-alias: Basic Selectors
 ---
 
 # Basic Selectors

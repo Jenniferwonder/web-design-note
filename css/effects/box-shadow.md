@@ -1,17 +1,22 @@
 ---
+category: Web Design
+comment: 
+aliases:
+  - Box Shadow
+draft: false
 title: Box Shadow
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-10
-
-status:
+DateModified: 2024-04-19
+status: 
 topic:
   - Filters
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 reviewed: 1
 difficulty: Good
+linter-yaml-title-alias: Box Shadow
 ---
 
 # Box Shadow

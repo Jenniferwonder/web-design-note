@@ -1,20 +1,26 @@
 ---
-title: "CSS Motion "
+category: Web Design
+Datereviewed: 
+reviewed: 
+comment: 
+aliases:
+  - CSS Animation & Transition
+draft: false
+title: CSS Animation & Transition
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-12
-DateModified: 2024-01-12
-
-status:
-
+DateModified: 2024-04-19
+status: 
 topic: Motion
 difficulty: Hard
+linter-yaml-title-alias: CSS Animation & Transition
 ---
 
 # CSS Animation & Transition
 
-## 📌[S-CSS Animation](S-CSS-Animation.md)
+## 📌[S-CSS Animation](S-CSS-Animation)
 
 ## `transition`
 
@@ -38,20 +44,20 @@ difficulty: Hard
 
 ### A multistage transition
 
-- `transition: background-color 500ms,
- transform 500ms 500ms;`
+- `transition: background-color 500ms,  
+transform 500ms 500ms;`
 
 ### 📌Properties that supports transition
 
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animated_properties
 
-## 🏷️[CSS Transform](CSS-Transform.md)
+## 🏷️[CSS Transform](CSS-Transform)
 
 ## `@keyframes`
 
 ### `@keyframes logo-spin {from {transform: rotate(0deg)} to {transform: rotate(360deg)}}`
 
-- 🏷️[CSS Transform](CSS-Transform.md)
+- 🏷️[CSS Transform](CSS-Transform)
 
 ### `@keyframes colors {0% { } 50% { } 100%{ }}`
 
@@ -107,8 +113,8 @@ difficulty: Hard
 ### Multiple animations
 
 - supports a comma-separated list of multiple values
-- `animation: color 5s alternate infinite,
-  spin 1s linear infinite;`
+- `animation: color 5s alternate infinite,  
+spin 1s linear infinite;`
 
 ## Performance
 

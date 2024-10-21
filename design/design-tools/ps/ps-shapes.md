@@ -1,11 +1,21 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - PS-Shapes
+draft: false
 title: PS-Shapes
 type: D
 tags:
   - PS
 DateStarted: 2023-10-20
-DateModified: 2023-11-13
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: PS-Shapes
 ---
 
 # PS-Shapes

@@ -1,18 +1,22 @@
 ---
+category: Web Design
+aliases:
+  - Form Style
+draft: false
 title: Form Style
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-20
-
-status:
+DateModified: 2024-04-19
+status: 
 topic:
   - Layout
 difficulty: Hard
 reviewed: 1
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 comment: ⭐⭐⭐
+linter-yaml-title-alias: Form Style
 ---
 
 # Form Style
@@ -98,10 +102,10 @@ comment: ⭐⭐⭐
 
 ## Form Base Style
 
-### 📌[Base Styles](Base-Styles.md)
+### 📌[Base Styles](Base-Styles)
 
 ## Attribute selector for form elements
 
 ### `input[type="submit"]` { }
 
-### 📌[Attribute Selectors](Attribute-Selectors.md)
+### 📌[Attribute Selectors](Attribute-Selectors)

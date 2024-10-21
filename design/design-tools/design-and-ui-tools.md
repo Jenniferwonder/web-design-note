@@ -1,11 +1,18 @@
 ---
-title: Design and UI Tools
+topic: 
+type: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+draft: false
+title: design-and-ui-tools
 tags: Design
 DateStarted: 2022-12-16
-due:
-DateModified: 2023-11-13
-status:
-Progress: NaN%
+due: 
+DateModified: 2024-04-19
+status: 
 ---
 
 ## How-to

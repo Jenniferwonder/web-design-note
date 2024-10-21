@@ -1,10 +1,20 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Design Principles
+draft: false
 title: Design Principles
 type: D
-tags:
-status:
+tags: 
+status: 
 DateStarted: 2023-10-10
-DateModified: 2023-10-10
+DateModified: 2024-04-19
+linter-yaml-title-alias: Design Principles
 ---
 
 # Design Principles

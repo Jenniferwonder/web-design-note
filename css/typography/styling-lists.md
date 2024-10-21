@@ -1,17 +1,21 @@
 ---
+category: Web Design
+aliases:
+  - Styling Lists
+draft: false
 title: Styling Lists
 type: D
 tags:
   - CSS
-status:
+status: 
 DateStarted: 2023-09-22
-DateModified: 2023-09-23
-
+DateModified: 2024-04-19
 comment: ⭐⭐
 Datereviewed: 2023-09-23T00:00:00.000+08:00
 reviewed: 1
 difficulty: Hard
 topic: Text
+linter-yaml-title-alias: Styling Lists
 ---
 
 # Styling Lists

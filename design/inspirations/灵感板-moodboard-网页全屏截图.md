@@ -1,11 +1,18 @@
 ---
-title: 灵感板 MoodBoard
+topic: 
+type: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+draft: false
+title: 灵感板-moodboard-网页全屏截图
 tags: Design
-status:
-DateStarted: 2022-11-22 Tue
-DateModified: 2023-10-13
-due:
-Progress: NaN%
+status: 
+DateStarted: 2022-11-22
+DateModified: 2024-04-19
+due: 
 ---
 
 创作时间：2022 年 11 月 2 日  

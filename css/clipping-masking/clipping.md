@@ -1,15 +1,21 @@
 ---
-title: "Clipping "
+category: Web Design
+Datereviewed: 
+reviewed: 
+comment: 
+aliases:
+  - Clipping
+draft: true
+title: Clipping
 type: D
 topic: Clipping
 tags:
   - CSS
 DateStarted: 2024-01-19
-DateModified: 2024-01-19
-
-status:
-
+DateModified: 2024-04-19
+status: 
 difficulty: Hard
+linter-yaml-title-alias: Clipping
 ---
 
 # Clipping

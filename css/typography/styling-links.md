@@ -1,17 +1,21 @@
 ---
+category: Web Design
+aliases:
+  - Styling Links
+draft: false
 title: Styling Links
 type: D
 tags:
   - CSS
 DateStarted: 2023-09-22
-DateModified: 2023-09-23
-status:
-
+DateModified: 2024-04-19
+status: 
 comment: ⭐⭐
 Datereviewed: 2023-09-23T00:00:00.000+08:00
 reviewed: 1
 difficulty: Hard
 topic: Text
+linter-yaml-title-alias: Styling Links
 ---
 
 # Styling Links
@@ -69,7 +73,7 @@ topic: Text
 
 ### `background`
 
-### Refer to [Typography](Typography.md)
+### Refer to [Typography](Typography)
 
 - `text-align`
 - `line-height`
@@ -81,6 +85,6 @@ topic: Text
 
 ### specify the position as 100% of the way to the right of the text content, and 0 pixels from the top.
 
-### Refer to [CSS Selectors](CSS-Selectors.md)
+### Refer to [CSS Selectors](CSS-Selectors)
 
 ## Styling links as buttons

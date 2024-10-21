@@ -1,10 +1,20 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Typography
+draft: false
 title: Typography
 type: D
-tags:
-status:
+tags: 
+status: 
 DateStarted: 2023-10-10
-DateModified: 2023-10-15
+DateModified: 2024-04-19
+linter-yaml-title-alias: Typography
 ---
 
 # Typography
@@ -41,12 +51,12 @@ DateModified: 2023-10-15
 
 ### 优设标题黑
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697181440491image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697181440491image.png)
 - 速度、力量、科技、知识
 
 ### 微软雅黑 (非免费) 替代
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697181537414image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697181537414image.png)
 
 ## Choose a Typeface or Font of a typeface
 
@@ -56,13 +66,13 @@ DateModified: 2023-10-15
 
 ### Starts with a base size: 16px
 
-- ![[Design Systems-Type Scales.png]]
+- ![](Design-Systems-Type-Scales.png)
 - Popular scale factors: major third, perfect fourth
 
 ### Presented in a hierarchical format
 
-- ![[Type scales in hierarchical format.png]]
-- ![[Type scale in hierarchical format-function based.png]]
+- ![](Type-scales-in-hierarchical-format.png)
+- ![](Type-scale-in-hierarchical-format-function-based.png)
 
 ## Other properties
 
@@ -80,9 +90,9 @@ DateModified: 2023-10-15
 
 ### Identify
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696999026860image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1696999026860image.png)
 - Remove unnecessary text style and exceptions
 
 ### Define text styles
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696999379648image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1696999379648image.png)

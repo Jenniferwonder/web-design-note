@@ -1,11 +1,21 @@
 ---
-title: Graphic Editing
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Graphic Design
+draft: false
+title: Graphic Design
 tags:
   - Design
 type: D
 DateStarted: 2022-12-16
-DateModified: 2023-10-15
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: Graphic Design
 ---
 
 # Graphic Design
@@ -45,11 +55,11 @@ status:
 
 ## Tools
 
-### [[Figma]]
+### [Figma](Figma.md)
 
-### [[PS]]
+### [PS](PS.md)
 
-### [[AI-Tools]]
+### [AI-Tools](AI-Tools)
 
 ### Ai
 
@@ -85,9 +95,9 @@ status:
 
 ### Remove Background/ 抠图
 
-- [[PS]]
+- [PS](PS.md)
   - [Photoshop 2021 : How to Remove Background (Fast Tutorial) - YouTube](https://www.youtube.com/watch?v=8zx9i_Ut1Gk)
-- [[Figma]]
+- [Figma](Figma.md)
   - [Upload Your Images to BG Remover | Wondershare PixCut](https://pixcut.wondershare.com/upload.html)
   - [API & Command Line – remove.bg](https://www.remove.bg/tools-api/api-commandline)
 
@@ -97,26 +107,26 @@ status:
 
 ### 人像描边？
 
-- ![[影视飓风-Typo,shape and visual effects.png|200]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/影视飓风-Typo,shape-and-visual-effects.png)
 
 ### 融合两张图片？
 
-- ![[Blending Effects.png|200]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Blending-Effects.png)
 
 ### 溶解图片某部分？
 
-- ![[Disolve Effects.png|196]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Disolve-Effects.png)
 
 ### Glowing Effects
 
-- ![[Glowing Effects.png|188]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Glowing-Effects.png)
 
 ### Add Text/Object Effects
 
 - Drop-shadow
 - Gradient
 
-## [[Typography]] & [[Color]]
+## [Typography](Typography.md) & [Color](Color.md)
 
 ### Text Effect
 
@@ -124,13 +134,13 @@ status:
 
 ### 醒目标题
 
-- ![[EF-Typo .png|200]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/EF-Typo.png)
 
 ### 中文字体与配色与排版？
 
 - 红白；黑黄；黑白
-- ![[Cover Color-ZH.png|150]]
-- ![[Cover Layout-Compare.png|150]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Cover-Color-ZH.png)
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Cover-Layout-Compare.png)
 
 ### Adjust Color/ Increase Contrast
 
@@ -140,12 +150,12 @@ status:
 
 ### _Spiral_ Shape
 
-- ![[Shape-spiral.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Shape-spiral.png)
 
 ### 背景图片形状？
 
 - Crop photo to a circle shape and use transparent photo background?
-- [[Figma]]
+- [Figma](Figma.md)
   - Use Mask
     - Create a circle shape
     - Select it and the photo, Click mask

@@ -1,17 +1,27 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Accessibility
+draft: false
 title: Accessibility
-type:
-tags:
+type: 
+tags: 
 DateStarted: 2023-10-10
-DateModified: 2023-10-10
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: Accessibility
 ---
 
 # Accessibility
 
 ## Impact see, hear, speak, touch and process
 
-## ![[Design Systems-Accessibility.png]]
+## ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Design-Systems-Accessibility.png)
 
 ## Common Issues
 

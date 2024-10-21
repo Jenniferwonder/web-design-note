@@ -1,10 +1,17 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+draft: false
 type: Note
-title: HTML-Input and label
+title: html-input-and-label
 tags: HTML
 DateStarted: 2022-12-06
-DateModified: 2023-07-08
-status: null
+DateModified: 2024-04-19
+status: 
 EST: NaN
 LeadTime: NaN
 Page-D: NaN

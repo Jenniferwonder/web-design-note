@@ -1,10 +1,20 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Components
+draft: false
 title: Components
 type: D
-tags:
+tags: 
 DateStarted: 2023-10-10
-DateModified: 2023-10-11
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: Components
 ---
 
 # Components
@@ -46,9 +56,9 @@ status:
 
 ### Figma Help Center: Component Properties: [https://bit.ly/3WsTbJ8](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTNsc0ZOa2Jwd1NxUE5CNkhndGxzYk5tVnhPQXxBQ3Jtc0tsWnZ2d2FJc2JESVhEZlpLUGNvRHdoZFJUcXFoSE9SMkNTOWpJdkpwam9vdklEVnY4UjNiRFpPZW1uMHNEb1Q4dHlWb3laZzlRTkxmSHJiMG1SYmVPeFQ2N0VEWEszMlI3cjA1eXBKSVU5RS1ydTh0SQ&q=https%3A%2F%2Fbit.ly%2F3WsTbJ8&v=0XSLMGh8yhM)
 
-## Components in [[Figma]]
+## Components in [Figma](Figma.md)
 
-### ![[Components in Figma.png|375]]
+### ![](Components-in-Figma.png)
 
 ### Main Component
 
@@ -58,7 +68,7 @@ status:
 
 - Copies which will inherit the main component updates
 
-## [[Iconography]]
+## [Iconography](Iconography.md)
 
 ### Adjust sizes using icon grid
 
@@ -70,7 +80,7 @@ status:
 
 ### Add description/ extra search terms for easier search
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697004156745image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697004156745image.png)
 
 ## Illustrations
 
@@ -78,37 +88,37 @@ status:
 
 - Context/type
 - Batch rename multiple layers
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697004768213image.png]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697004768213image.png)
 
 ### _Create component set_
 
 ### Rename _properties_
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697004578013image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697004578013image.png)
 
 ### Rename component sets name
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697004943218image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697004943218image.png)
 
 ## 💡Create a component in figma
 
-### Day toggle ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697005243017image.png|]50]]
+### Day toggle ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697005243017image.png)
 
 - Create component and create component property if any
 - Add component variant
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697005519032image.png|200]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697005519032image.png)
 - Change variant property
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697005672828image.png|200]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697005672828image.png)
 - Change color and styles for each variant
 - Select text section and in _Content_ section, create a text component property
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697006091166image.png]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697006091166image.png)
 - Set default component
   - The top left component in component set
 
-### Action presentation card ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697006267125image.png]]
+### Action presentation card ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697006267125image.png)
 
 - Create component property
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697006544405image.png]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697006544405image.png)
 
 ## 💡Create a pattern in figma
 
@@ -118,7 +128,7 @@ status:
 - Add _auto-layout frame_ around the component
   - `SHIFT + A`
 - Hit `enter` to select the component, and `ctrl + D` to duplicate
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697007228165image.png]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697007228165image.png)
 - Update spacing
   - padding 0
   - space-between 10

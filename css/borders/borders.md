@@ -1,22 +1,26 @@
 ---
+category: Web Design
+comment: 
+aliases:
+  - Borders
+draft: false
 title: Borders
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-10
-
-status:
-
+DateModified: 2024-04-19
+status: 
 topic: Borders
 reviewed: 1
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 difficulty: Good
+linter-yaml-title-alias: Borders
 ---
 
 # Borders
 
-## 📌[Border Radius (Rounded Corners)](<Border-Radius-(Rounded-Corners).md>)
+## 📌[Border Radius (Rounded Corners)](<Border-Radius-(Rounded-Corners)>)
 
 ## Shorthand Property & Values
 
@@ -84,10 +88,10 @@ difficulty: Good
 
 ### Offset-color
 
-### 🏷️[O-TailwindCSS](O-TailwindCSS.md)
+### 🏷️[O-TailwindCSS](O-TailwindCSS)
 
-### 🏷️[Box Shadow](Box-Shadow.md)
+### 🏷️[Box Shadow](Box-Shadow)
 
-## 📌[Border-Box Explained](Border-Box-Explained.md)
+## 📌[Border-Box Explained](Border-Box-Explained)
 
-## 📌[Box Shadow](Box-Shadow.md)
+## 📌[Box Shadow](Box-Shadow)

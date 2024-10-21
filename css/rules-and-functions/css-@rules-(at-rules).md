@@ -1,17 +1,22 @@
 ---
+category: Web Design
+comment: 
+aliases:
+  - CSS @rules (at-rules)
+draft: false
 title: CSS @rules (at-rules)
 type: D
 tags:
   - CSS
-status:
-DateStarted: 2023-09-18T00:00:00.000+08:00
-DateModified: 2023-09-25
-
+status: 
+DateStarted: 2023-09-18
+DateModified: 2024-04-19
 difficulty: Hard
 topic:
   - Rules
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 reviewed: 2
+linter-yaml-title-alias: CSS @rules (at-rules)
 ---
 
 # CSS @rules (at-rules)
@@ -37,7 +42,7 @@ reviewed: 2
 }
 ```
 
-## 🏷️[Media Query](Media-Query.md)
+## 🏷️[Media Query](Media-Query)
 
 ## `@supports`
 
@@ -68,4 +73,4 @@ reviewed: 2
 }
 ```
 
-### 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition.md)
+### 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition)

@@ -1,18 +1,22 @@
 ---
+category: Web Design
+aliases:
+  - CSS Positioning
+draft: false
 title: CSS Positioning
 type: D
 tags:
   - CSS
-status:
+status: 
 DateStarted: 2023-10-01
-DateModified: 2023-10-01
+DateModified: 2024-04-19
 comment: ⭐⭐⭐
 topic:
   - Layout
-
 difficulty: Hard
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 reviewed: 1
+linter-yaml-title-alias: CSS Positioning
 ---
 
 # CSS Positioning
@@ -92,4 +96,4 @@ reviewed: 1
 
 ### `bottom/ top/ center/ left/ right/ left bottom/ ...`
 
-### 🏷️[CSS Image-Video and other Replaced elements](CSS-Image-Video-and-other-Replaced-elements.md)
+### 🏷️[CSS Image-Video and other Replaced elements](CSS-Image-Video-and-other-Replaced-elements)

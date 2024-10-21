@@ -1,16 +1,21 @@
 ---
+category: Web Design
+Datereviewed: 
+reviewed: 
+aliases:
+  - CSS for React
+draft: false
 title: CSS for React
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-08
-DateModified: 2024-01-10
-
-status:
-
+DateModified: 2024-04-19
+status: 
 topic: Basics
 comment: ⭐⭐⭐
 difficulty: Hard
+linter-yaml-title-alias: CSS for React
 ---
 
 # CSS for React
@@ -20,8 +25,6 @@ difficulty: Hard
 ### https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/
 
 ### https://blog.devgenius.io/best-ways-to-style-a-react-js-application-c818b71f6341
-
-### 📌[O-React](obsidian://open?vault=Front-End-Frameworks&file=React%2FO-React%2FO-React)
 
 ## Folder Structure
 
@@ -39,7 +42,7 @@ difficulty: Hard
 
 ### Global CSS
 
-- 📌[Base Styles](Base-Styles.md)
+- 📌[Base Styles](Base-Styles)
 
 ### Using normal CSS
 
@@ -54,11 +57,11 @@ difficulty: Hard
 ### Inline CSS
 
 - Utility Class
-  - 📌[O-TailwindCSS](O-TailwindCSS.md)
-- `style={{
+  - 📌[O-TailwindCSS](O-TailwindCSS)
+- `style={{  
 width: user.imageSize, height: user.imageSize, }}`
 
-### [UI Componenet Library](UI-Componenet-Library.md)
+### [UI Componenet Library](UI-Componenet-Library)
 
 - 💡Pre-styled components
   - ❌Difficult to customize

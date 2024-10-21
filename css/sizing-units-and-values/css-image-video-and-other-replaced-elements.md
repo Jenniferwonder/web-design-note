@@ -1,18 +1,22 @@
 ---
-title: CSS Images, media and form elements
+category: Web Design
+aliases:
+  - CSS Images, videos and other replaced elements
+draft: false
+title: CSS Images, videos and other replaced elements
 type: D
 tags:
   - CSS
-status:
+status: 
 DateStarted: 2023-09-21
-DateModified: 2023-09-23
-
+DateModified: 2024-04-19
 difficulty: Good
 reviewed: 2
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 comment: ⭐⭐⭐
 topic:
   - Sizing
+linter-yaml-title-alias: CSS Images, videos and other replaced elements
 ---
 
 # CSS Images, videos and other replaced elements

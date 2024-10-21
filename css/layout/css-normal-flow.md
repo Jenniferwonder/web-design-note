@@ -1,12 +1,13 @@
 ---
-title: CSS Normal Flow
+category: Web Design
+draft: false
+title: css-normal-flow
 type: D
 tags:
   - CSS
-status:
+status: 
 DateStarted: 2023-09-25
-DateModified: 2023-10-01
-
+DateModified: 2024-04-19
 difficulty: Good
 comment: ⭐⭐
 topic: Layout
@@ -16,7 +17,7 @@ Datereviewed: 2024-01-09T00:00:00.000+08:00
 
 ### CSS Normal Flow
 
-- Refer to: [Box Model (Spacing)](<Box-Model-(Spacing).md>)
+- Refer to: [Box Model (Spacing)](<Box-Model-(Spacing)>)
   - Block-level element
     - `div`
     - `p`, `h1`...

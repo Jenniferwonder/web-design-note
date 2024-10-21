@@ -1,12 +1,21 @@
 ---
-title: Tailwind-CSS
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - O-TailwindCSS
+draft: true
+title: O-TailwindCSS
 type: O
 tags:
   - CSS
 DateStarted: 2023-12-12
-DateModified: 2023-12-12
-
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: O-TailwindCSS
 ---
 
 # O-TailwindCSS
@@ -55,7 +64,7 @@ status:
 
 ### Presets
 
-## [Base Styles](Base-Styles.md)
+## [Base Styles](Base-Styles)
 
 ## Layout
 
@@ -99,7 +108,7 @@ status:
 
 ### Z-Index
 
-## [Flexbox](Flexbox.md) & [Grids](Grids.md)
+## [Flexbox](Flexbox) & [Grids](Grids)
 
 ### Flexbox
 
@@ -156,7 +165,7 @@ status:
 
 ### Max-Height
 
-## [Typography](Typography.md)
+## [Typography](Typography)
 
 ### Font
 
@@ -185,7 +194,7 @@ status:
 - Text Overflow
 - Text Indent
 
-### [Lists](Styling-Lists.md)
+### [Lists](Styling-Lists)
 
 - List Style Image
 - List Style Type
@@ -224,7 +233,7 @@ status:
 
 ### Gradient Color Stops
 
-### 🏷️[CSS Backgrounds](CSS-Backgrounds.md)
+### 🏷️[CSS Backgrounds](CSS-Backgrounds)
 
 ## Borders
 
@@ -321,7 +330,7 @@ status:
 
 ### Animation
 
-### 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition.md)
+### 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition)
 
 ## Transforms
 
@@ -335,7 +344,7 @@ status:
 
 ### Transform Origin
 
-### 🏷️[CSS Transform](CSS-Transform.md)
+### 🏷️[CSS Transform](CSS-Transform)
 
 ## Interactivity
 

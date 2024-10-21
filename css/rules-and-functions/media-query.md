@@ -1,13 +1,21 @@
 ---
-title: "Media Query "
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Media Query
+draft: false
+title: Media Query
 type: D
-topic:
+topic: 
 tags:
   - CSS
 DateStarted: 2024-01-22
-DateModified: 2024-01-22
-
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: Media Query
 ---
 
 # Media Query
@@ -52,12 +60,12 @@ status:
 
 ### `@media (orientation: landscape)`
 
-### 🏷️[Base Styles](Base-Styles.md)
+### 🏷️[Base Styles](Base-Styles)
 
-- 🏷️[Color Scheme](Color-Scheme.md)
+- 🏷️[Color Scheme](Color-Scheme)
   - `@media (prefers-color-scheme: dark)`
 
-### 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition.md)
+### 🏷️[CSS Animation & Transition](CSS-Animation-&-Transition)
 
 - `@media(prefers-reduced-motion: reduce/ no-preference)`
 

@@ -1,10 +1,18 @@
 ---
-title: R-CSS Inspiration and Templates
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+status: 
+comment: 
+draft: true
+title: css-practice-and-inspiration
 type: S
 tags:
   - CSS
 DateStarted: 2023-07-08
-DateModified: 2023-10-06
+DateModified: 2024-04-19
 cssclasses:
   - wide-page
 ---

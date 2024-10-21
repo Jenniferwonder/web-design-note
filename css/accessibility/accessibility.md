@@ -1,13 +1,21 @@
 ---
-title: "Accessibility "
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Accessibility
+draft: true
+title: Accessibility
 type: D
-topic:
+topic: 
 tags:
   - CSS
 DateStarted: 2024-01-22
-DateModified: 2024-01-22
-
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: Accessibility
 ---
 
 # Accessibility

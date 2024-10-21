@@ -1,19 +1,24 @@
 ---
-title: pseudo-classes selectors (伪类)
+aliases:
+  - Pseudo Class Selectors (伪类)
+category: Web Design
+comment: 
+draft: false
+title: Pseudo Class Selectors (伪类)
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-09
-
-status:
+DateModified: 2024-04-19
+status: 
 reviewed: 1
 Datereviewed: 2024-01-09T00:00:00.000+08:00
 topic: Selectors
 difficulty: Hard
+linter-yaml-title-alias: Pseudo Class Selectors (伪类)
 ---
 
-## pseudo-classes selectors (伪类)
+# Pseudo Class Selectors (伪类)
 
 ### Style **certain states** of an element
 
@@ -21,7 +26,7 @@ difficulty: Hard
 
 ### User-action Pseudo Class (Anchor element states)
 
-- [Styling Links](Styling-Links.md)
+- [Styling Links](Styling-Links)
 
 ### Structural
 
@@ -35,7 +40,7 @@ difficulty: Hard
 - `:last-child`
 - `:only-child`
 - `tbody tr:nth-child(odd) { }`
-  - [Table Style](Table-Style.md)
+  - [Table Style](Table-Style)
 
 ### Type Child
 

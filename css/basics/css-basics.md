@@ -1,10 +1,21 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - CSS Basics
+draft: false
 title: CSS Basics
 type: D
 tags:
-status:
-DateStarted: 2023-09-18T00:00:00.000+08:00
-DateModified: 2023-09-21
+  - CSS
+status: 
+DateStarted: 2023-09-18
+DateModified: 2024-04-19
+linter-yaml-title-alias: CSS Basics
 ---
 
 # CSS Basics
@@ -57,4 +68,4 @@ DateModified: 2023-09-21
 - This enables basic fallback styling.
   - It means that you can use new CSS as an enhancement
 
-### 🏷️[CSS Cascade Specificity and Inheritance (优先级原理)](<CSS-Cascade-Specificity-and-Inheritance-(优先级原理).md>)
+### 🏷️[CSS Cascade Specificity and Inheritance (优先级原理)](<CSS-Cascade-Specificity-and-Inheritance-(优先级原理)>)

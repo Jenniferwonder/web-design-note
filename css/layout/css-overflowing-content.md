@@ -1,12 +1,13 @@
 ---
-title: CSS Overflowing Content
+category: Web Design
+draft: false
+title: css-overflowing-content
 type: D
 tags:
   - CSS
-status:
+status: 
 DateStarted: 2023-09-20
-DateModified: 2023-09-23
-
+DateModified: 2024-04-19
 difficulty: Good
 reviewed: 1
 Datereviewed: 2023-09-23T00:00:00.000+08:00

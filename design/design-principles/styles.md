@@ -1,23 +1,33 @@
 ---
-title: ⭐Styles
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Styles
+draft: false
+title: Styles
 type: D
-tags:
-status:
+tags: 
+status: 
 DateStarted: 2023-10-11
-DateModified: 2023-10-12
+DateModified: 2024-04-19
+linter-yaml-title-alias: Styles
 ---
 
 # Styles
 
 ## A collection of properties or settings to be reused
 
-## [[Grids, Layouts and Spacing]]
+## [Grids, Layouts and Spacing](Grids,-Layouts-and-Spacing)
 
-## [[Color]]
+## [Color](Color.md)
 
-## [[Typography]]
+## [Typography](Typography.md)
 
-## [[Elevation]]
+## [Elevation](Elevation.md)
 
 ## Gradients
 

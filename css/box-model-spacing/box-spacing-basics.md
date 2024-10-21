@@ -1,12 +1,13 @@
 ---
-title: Box Spacing Basics
+category: Web Design
+draft: false
+title: box-spacing-basics
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-09
-
-status:
+DateModified: 2024-04-19
+status: 
 reviewed: 1
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 topic: Box
@@ -28,7 +29,7 @@ comment: ⭐⭐
 
 ### Padding
 
-### [Borders](Borders.md)
+### [Borders](Borders)
 
 - top, right, bottom, left
 - width, style, color

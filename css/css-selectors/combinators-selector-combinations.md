@@ -1,19 +1,24 @@
 ---
-title: Combinators (Selector Combinations)
+aliases:
+  - Combinators-Selector Combinations
+category: Web Design
+comment: 
+draft: false
+title: Combinators-Selector Combinations
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-09
-
-status:
+DateModified: 2024-04-19
+status: 
 reviewed: 1
 Datereviewed: 2024-01-09T00:00:00.000+08:00
 topic: Selectors
 difficulty: Hard
+linter-yaml-title-alias: Combinators-Selector Combinations
 ---
 
-## Combinators (Selector Combinations)
+# Combinators-Selector Combinations
 
 ### Combining pseudo-classes and pseudo-elements
 

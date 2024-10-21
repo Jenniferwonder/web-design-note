@@ -1,15 +1,22 @@
 ---
-title: Design Process
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+draft: false
+title: design-process
 type: D
-tags:
-status:
+tags: 
+status: 
 DateStarted: 2023-10-10
-DateModified: 2023-10-10
+DateModified: 2024-04-19
 ---
 
 ## Design Process
 
-![[Design Process-Double Diamond.png|475]]
+![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Design-Process-Double-Diamond.png)
 
 ### Discover/ Research (Why, Inspiration)
 

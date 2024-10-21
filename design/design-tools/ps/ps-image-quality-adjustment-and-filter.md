@@ -1,10 +1,20 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - PS-Image Quality Adjustment and Filter
+draft: false
 title: PS-Image Quality Adjustment and Filter
-type:
-tags:
+type: 
+tags: 
 DateStarted: 2023-10-20
-DateModified: 2023-11-13
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: PS-Image Quality Adjustment and Filter
 ---
 
 # PS-Image Quality Adjustment and Filter
@@ -30,8 +40,8 @@ status:
     - Controls the overall color
   - _Lightness_
   - To affect only one color
-    - Choose a category ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697204916033image.png]]
-    - Or pick a color to affect ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697205131768image.png]]
+    - Choose a category ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697204916033image.png)
+    - Or pick a color to affect ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697205131768image.png)
 
 ### ⭐Apply _Filter_
 

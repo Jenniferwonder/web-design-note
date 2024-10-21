@@ -1,16 +1,22 @@
 ---
+topic: 
+category: Web Design
+aliases:
+  - SASS 预处理器
+draft: false
 title: SASS 预处理器
 type: O
 tags:
   - SASS
-status:
+  - CSS
+status: 
 DateStarted: 2023-09-18
-DateModified: 2023-10-01
-
+DateModified: 2024-04-19
 Datereviewed: 2023-09-23T00:00:00.000+08:00
 difficulty: Good
 reviewed: 1
 comment: ⭐⭐
+linter-yaml-title-alias: SASS 预处理器
 ---
 
 # SASS 预处理器

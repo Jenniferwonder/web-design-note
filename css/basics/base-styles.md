@@ -1,18 +1,21 @@
 ---
-title: "Base Style "
+category: Web Design
+aliases:
+  - Base Styles
+draft: false
+title: Base Styles
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-08
-DateModified: 2024-01-08
-
-status:
-
+DateModified: 2024-04-19
+status: 
 topic: Basics
 difficulty: Good
 comment: ⭐⭐⭐
 Datereviewed: 2024-01-15T00:00:00.000+08:00
 reviewed: 2
+linter-yaml-title-alias: Base Styles
 ---
 
 # Base Styles
@@ -60,8 +63,8 @@ reviewed: 2
 - highest specificity level
   - takes precedence over other selectors like `html` or `*`
 - consistency and readability
-- 📌[Color Scheme](Color-Scheme.md)
-- 📌[CSS Selectors](CSS-Selectors.md) > [pseudo-classes selectors (伪类)](<pseudo-classes-selectors-(伪类).md>)
+- 📌[Color Scheme](Color-Scheme)
+- 📌[CSS Selectors](CSS-Selectors) > [pseudo-classes selectors (伪类)](<pseudo-classes-selectors-(伪类)>)
 
 ### `*, ::before, ::after`
 
@@ -72,7 +75,7 @@ reviewed: 2
 
 - 📌Spacing
 
-## 📌[Borders](Borders.md)
+## 📌[Borders](Borders)
 
 ### 💡Purpose
 
@@ -82,7 +85,7 @@ reviewed: 2
 ### `box-sizing: border-box`
 
 - https://www.paulirish.com/2012/box-sizing-border-box-ftw/
-- 📌[Border-Box Explained](Border-Box-Explained.md)
+- 📌[Border-Box Explained](Border-Box-Explained)
 
 ### `border-width: 0`
 
@@ -90,7 +93,7 @@ reviewed: 2
 
 ### `border-color: currentColor`
 
-## 📌[Box Spacing Basics](Box-Spacing-Basics.md)
+## 📌[Box Spacing Basics](Box-Spacing-Basics)
 
 ### margin & padding
 
@@ -165,19 +168,19 @@ reviewed: 2
 - `a`
   - `background-color: transparent`
 
-### 📌[Styling Links](Styling-Links.md)
+### 📌[Styling Links](Styling-Links)
 
-### 📌[Styling Lists](Styling-Lists.md)
+### 📌[Styling Lists](Styling-Lists)
 
-### 📌[CSS Overflowing Content](CSS-Overflowing-Content.md)
+### 📌[CSS Overflowing Content](CSS-Overflowing-Content)
 
 - `overflow: auto;`
 
-### 📌[Typography](Typography.md)
+### 📌[Typography](Typography)
 
-- [S-Font-字体](S-Font-字体.md)
+- [S-Font-字体](S-Font-字体)
 
-## 📌[CSS Image-Video and other Replaced elements](CSS-Image-Video-and-other-Replaced-elements.md)
+## 📌[CSS Image-Video and other Replaced elements](CSS-Image-Video-and-other-Replaced-elements)
 
 ### `img, svg, video, canvas, audio, iframe, embed, object`
 
@@ -196,7 +199,7 @@ reviewed: 2
 - Remove the border on images inside links in IE 10
 - `border-style: none;`
 
-## 📌[Form Style](Form-Style.md)
+## 📌[Form Style](Form-Style)
 
 ### `button, input, optgroup, select, textarea`
 
@@ -270,7 +273,7 @@ reviewed: 2
 
 - `resize: vertical`
 
-## 📌[Table Style](Table-Style.md)
+## 📌[Table Style](Table-Style)
 
 ### `text-indent:0`
 
@@ -296,9 +299,9 @@ reviewed: 2
 
 ## Color
 
-### [S-Color-颜色与背景](S-Color-颜色与背景.md)
+### [S-Color-颜色与背景](S-Color-颜色与背景)
 
-### 📌[Color Scheme](Color-Scheme.md)
+### 📌[Color Scheme](Color-Scheme)
 
 ## `scroll-behavior: smooth / auto`
 

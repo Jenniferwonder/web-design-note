@@ -1,11 +1,21 @@
 ---
-title: PS-Combine and Blend Image
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - PS-Combine and Blend Images
+draft: false
+title: PS-Combine and Blend Images
 type: D
 tags:
   - PS
 DateStarted: 2023-10-20
-DateModified: 2023-11-13
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: PS-Combine and Blend Images
 ---
 
 # PS-Combine and Blend Images
@@ -16,13 +26,13 @@ status:
 
 ### Blend mode to add texture
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697287851676image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697287851676image.png)
 - Hold down _Shift + _ keys to switch mode
 
 ### Basics
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697519177122image.png|200]] ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697519208641image.png|200]] ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697519280493image.png|200]]
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697519673554image.png|200]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697519177122image.png) ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697519208641image.png) ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697519280493image.png)
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697519673554image.png)
   - Normal Category
     - Do not blend pixels but only reveal pixels in the base layer when Opacity is reduced
   - Darken
@@ -37,7 +47,7 @@ status:
 ### To add an object to an image
 
 - _File > Place embeded_ to add photo to blend
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697288660775image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697288660775image.png)
 - Select _brush_ tool
   - **Black** foreground color conceals, **white** reveals the masked image
 
@@ -51,7 +61,7 @@ status:
 
 ### Options > _Combine shapes_
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697522927838image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697522927838image.png)
 
 ### ✅To fine tune the mask
 

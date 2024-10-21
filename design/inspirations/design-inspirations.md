@@ -1,3 +1,18 @@
+---
+title: design-inspirations
+topic: 
+type: 
+tags: 
+category: Web Design
+DateStarted: 2024-01-04
+DateModified: 2024-04-19
+Datereviewed: 
+reviewed: 
+difficulty: 
+status: 
+comment: 
+draft: false
+---
 ## Design Inspirations
 >Here are some websites to get inspiration for design and UI
 - AR Shakir's Designs - [https://www.arshakir.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmhoZzdmbHFKd1RlODlmLWxaN3E3d09CbFExZ3xBQ3Jtc0tsaEVxdF9XdFdSZFlaRUZQMS02S2JIbDNnaXZzZGtJUDBrb1pTb1lKb1FlQkx2T2JEdVNVamVvWV9VZWQ2aThKRDdzZHdJU3djdkVNMDFaOXlZbU4wT3BmNDl0ZWs2ZUVOYWh1bjVsRTJHRktuNlNsZw&q=https%3A%2F%2Fwww.arshakir.com%2F&v=LMagNcngvcU)

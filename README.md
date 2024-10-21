@@ -1,9 +1,21 @@
 ---
+title: CSS Resources
+topic: 
+type: S
+tags: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+status: 
+comment: 
+aliases:
+  - CSS Resources
+draft: false
 DateStarted: 2023-04-30
-DateModified: 2023-10-05
+DateModified: 2024-09-30
+linter-yaml-title-alias: CSS Resources
 ---
-**[Back](/README.md/)**
-
 # CSS Resources
 
 ## Resources for Learning CSS

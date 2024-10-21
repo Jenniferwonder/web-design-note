@@ -1,14 +1,19 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+draft: true
 type: Note
-title: 01-弹性盒布局方法总结：Medium 主页
+title: 01-弹性盒布局方法总结-medium-主页
 tags:
-  - TechSkills
-status:
+  - CSS
+status: 
 DateStarted: 2022-11-11
-DateModified: 2023-11-30
+DateModified: 2024-04-19
 ---
-
-- Up:: [S-TailwindCSS](S-TailwindCSS.md), [React Projects](React-Projects)
 
 创作时间：2022 年 11 月 11 日
 

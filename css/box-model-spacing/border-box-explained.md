@@ -1,15 +1,17 @@
 ---
-title: Border-Box Explained
+category: Web Design
+draft: false
+title: border-box-explained
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-09
-
-status:
-reviewed: 1
-Datereviewed: 2024-01-19T00:00:00.000+08:00
-topic: Box
+DateModified: 2024-04-25
+status: 
+reviewed: 2
+Datereviewed: 2024-04-25
+topic:
+  - Box
 difficulty: Good
 comment: ⭐⭐
 ---
@@ -18,14 +20,14 @@ comment: ⭐⭐
 
 ### ⭐Standard CSS Box Model
 
-- ![](<https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/CSS-Box-Model-(盒模型)-Standard-CSS-Box.png>)
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/css-box-model-(盒模型)-standard-css-box.png)
 
 ### ⭐Alternative CSS Box Model
 
 - border-box
 - `box-sizing: border-box`
-  - ![](<https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/CSS-Box-Model-(盒模型)-Border-Box.png>)
-- 📌[Base Styles](Base-Styles.md)
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/css-box-model-(盒模型)-border-box.png)
+- 📌[Base Styles](Base-Styles)
 - 📌To use the alternative box model for all of your elements (which is a common choice among developers)
 
   ```css

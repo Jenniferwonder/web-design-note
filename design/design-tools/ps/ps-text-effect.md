@@ -1,15 +1,25 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - PS-Text Effect
+draft: false
 title: PS-Text Effect
-type:
-tags:
+type: 
+tags: 
 DateStarted: 2023-10-20
-DateModified: 2023-11-13
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: PS-Text Effect
 ---
 
 # PS-Text Effect
 
-## [[Typography]]
+## [Typography](Typography.md)
 
 ## ⭐Drop shadow
 
@@ -23,7 +33,7 @@ status:
 
 ### Set _Stroke_, _Inner Glow_, _Outer glow_
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697551346283image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697551346283image.png)
 
 ## ✅ Mirror Text
 
@@ -34,10 +44,10 @@ status:
 - _Filter > Blur > Gaussian blur > Radius = 4._
 - Double click layer to open _Blending Options_
   - Click `Alt` to break the slider and drag it to the right
-    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697552026391image.png]]
+    - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697552026391image.png)
 - Add _mask_ on this layer
   - Select _Gradient tool_ (Foreground color: Black)
-    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697552140918image.png]]
+    - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697552140918image.png)
 
 ## ✅ Bubble Text
 

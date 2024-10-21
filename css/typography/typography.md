@@ -1,17 +1,21 @@
 ---
-title: Fundamental text and font styling
+category: Web Design
+aliases:
+  - Typography
+draft: false
+title: Typography
 type: D
 tags:
   - CSS
-status:
-DateStarted: 2023-09-21T00:00:00.000+08:00
-DateModified: 2023-09-23
-
+status: 
+DateStarted: 2023-09-21
+DateModified: 2024-04-19
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 comment: ⭐⭐⭐
 reviewed: 3
 difficulty: Hard
 topic: Text
+linter-yaml-title-alias: Typography
 ---
 
 # Typography
@@ -39,7 +43,7 @@ topic: Text
 
 ### `font-size`
 
-- [CSS Values and Units](CSS-Values-and-Units.md)
+- [CSS Values and Units](CSS-Values-and-Units)
 - ⭐Fluid/ responsive typography
   - `font-size: clamp(48px, 4.8vw, 64px);`
     - the minimum size
@@ -49,7 +53,7 @@ topic: Text
 ### `line-height`
 
 - Line height
-- [CSS Values and Units](CSS-Values-and-Units.md)
+- [CSS Values and Units](CSS-Values-and-Units)
 
 ### `font-weight`
 
@@ -102,7 +106,7 @@ topic: Text
 - horizontal, vertical, blur radius, base color of the shadow
 - can apply multiple shadows
   - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1695304143112image.png)
-- 📌[Box Shadow](Box-Shadow.md)
+- 📌[Box Shadow](Box-Shadow)
 
 ## Text Layout
 
@@ -116,11 +120,11 @@ topic: Text
 
 ### `word-spacing`
 
-### [CSS Text Directions](CSS-Text-Directions.md)
+### [CSS Text Directions](CSS-Text-Directions)
 
 - `writing-mode`
 
-### [CSS Overflowing Content](CSS-Overflowing-Content.md)
+### [CSS Overflowing Content](CSS-Overflowing-Content)
 
 - `overflow-wrap`
 

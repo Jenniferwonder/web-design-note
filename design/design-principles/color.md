@@ -1,10 +1,20 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Color
+draft: false
 title: Color
 type: D
-tags:
-status:
+tags: 
+status: 
 DateStarted: 2023-10-10
-DateModified: 2023-10-11
+DateModified: 2024-04-19
+linter-yaml-title-alias: Color
 ---
 
 # Color
@@ -36,7 +46,7 @@ DateModified: 2023-10-11
 
 ### 60-30-10 Rule
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696912682085image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1696912682085image.png)
 
 ### Adapt to different themes
 
@@ -66,9 +76,9 @@ DateModified: 2023-10-11
 - System for organizing different color styles
   - Theme
   - Function
-    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696998709539image.png]]
+    - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1696998709539image.png)
     - User color to define user habits
   - Hue
 - Slashing naming convention
   - function/style + description for any use cases
-    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696998918976image.png]]
+    - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1696998918976image.png)

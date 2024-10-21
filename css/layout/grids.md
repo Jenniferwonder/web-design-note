@@ -1,12 +1,13 @@
 ---
-title: Grids
+category: Web Design
+draft: false
+title: grids
 type: D
 tags:
   - CSS
-status:
+status: 
 DateStarted: 2023-09-25
-DateModified: 2023-09-25
-
+DateModified: 2024-04-19
 comment: ⭐⭐⭐
 difficulty: Hard
 topic: Layout

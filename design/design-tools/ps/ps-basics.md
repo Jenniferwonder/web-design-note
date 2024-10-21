@@ -1,11 +1,21 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - PS-Basics
+draft: false
 title: PS-Basics
 type: D
 tags:
   - PS
 DateStarted: 2023-10-20
-DateModified: 2023-11-13
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: PS-Basics
 ---
 
 # PS-Basics
@@ -53,7 +63,7 @@ status:
 
 ## Use Color and Brush
 
-### [[Color]]
+### [Color](Color.md)
 
 ### Use _brush_
 
@@ -78,7 +88,7 @@ status:
 ### Image size
 
 - Resize proportionally (_Image > Image Size_)
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697200731400image.png]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697200731400image.png)
 - Resolution
   - For online
     - pixels
@@ -100,9 +110,9 @@ status:
   - Check _Relative_
     - To set the amount of pixels added to the canvas
   - To add size on one side (_Anchor_)
-    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697202337211image.png]]
+    - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697202337211image.png)
 - Change canvas extension color
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697202479782image.png]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697202479782image.png)
 
 ## Layer
 

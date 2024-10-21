@@ -1,16 +1,21 @@
 ---
-title: "CSS Transform "
+category: Web Design
+Datereviewed: 
+reviewed: 
+comment: 
+aliases:
+  - CSS Transform
+draft: false
+title: CSS Transform
 type: D
 topic: Motion
 tags:
   - CSS
-
 DateStarted: 2024-01-19
-DateModified: 2024-01-19
-
-status:
-
+DateModified: 2024-04-25
+status: 
 difficulty: Good
+linter-yaml-title-alias: CSS Transform
 ---
 
 # CSS Transform
@@ -32,20 +37,20 @@ difficulty: Good
 
 ### `rotateX`
 
-- `transform: perspective(200px)
+- `transform: perspective(200px)  
                rotateX(45deg);`
 
 ### `rotateY`
 
-- `transform: perspective(200px)
+- `transform: perspective(200px)  
                rotateY(45deg);`
 
 ### `rotate3d`
 
-- `transform: perspective(200px)
+- `transform: perspective(200px)  
                rotate3d(1, 1, 0, 45deg);`
 
-### 📌[Sizing Units](Sizing-Units.md)
+### 📌[Sizing Units](Sizing-Units)
 
 ## Translation
 
@@ -58,12 +63,12 @@ difficulty: Good
 ### `translateZ`
 
 - used with `perspective()`
-- `transform: perspective(200px)
+- `transform: perspective(200px)  
                translateZ(2rem)`
 
 ### `translate3d`
 
-- `transform: perspective(200px)
+- `transform: perspective(200px)  
                translate3d(1rem, 2rem, 3rem);`
 
 ## Scaling
@@ -88,7 +93,7 @@ difficulty: Good
 
 ### `transform: translateX(100px)
 
-rotate(45deg)
+rotate(45deg)  
            translateX(100px);`
 
 ## Examples
@@ -96,3 +101,13 @@ rotate(45deg)
 ### Make a Heart
 
 ### Make a Cube
+
+
+
+
+
+
+
+
+
+

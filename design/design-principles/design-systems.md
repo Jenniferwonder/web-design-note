@@ -1,17 +1,29 @@
 ---
-title: Design Systems
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Design Systems 375
+draft: false
+title: Design Systems 375
 type: D
-tags:
+tags: 
 DateStarted: 2023-10-09
-DateModified: 2023-10-12
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: Design Systems 375
 ---
 
-# Design Systems ![[Design Systems.png|375]]
+# Design Systems
+
+![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Design-Systems.png)
 
 ## Metadata
 
-### Related:: [[Figma]]
+### Related:: [Figma](Figma.md)
 
 ## Resources
 
@@ -32,21 +44,21 @@ status:
 - Spectrum - Adobe
 - Carbon - IBM
 
-## [[Design System Intro]]
+## [Design System Intro](Design-System-Intro)
 
 ## Design Foundations
 
-### [[Accessibility]]
+### [Accessibility](Accessibility.md)
 
 ### Language
 
-## [[Design Principles]]
+## [Design Principles](Design-Principles)
 
-## ⭐[[Design Pattern library]]
+## ⭐[Design Pattern library](Design-Pattern-library)
 
-## [[Design Process]]
+## [Design Process](Design-Process)
 
-## [[Design Documentation Guidelines]]
+## [Design Documentation Guidelines](Design-Documentation-Guidelines)
 
 ## Design tokens
 

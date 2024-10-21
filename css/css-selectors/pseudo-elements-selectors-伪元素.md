@@ -1,19 +1,24 @@
 ---
-title: pseudo-elements selectors (伪元素)
+aliases:
+  - Pseudo Elements Selectors (伪元素)
+category: Web Design
+comment: 
+draft: false
+title: Pseudo Elements Selectors (伪元素)
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-09
-
-status:
+DateModified: 2024-04-19
+status: 
 reviewed: 1
 Datereviewed: 2024-01-09T00:00:00.000+08:00
 topic: Selectors
 difficulty: Hard
+linter-yaml-title-alias: Pseudo Elements Selectors (伪元素)
 ---
 
-## pseudo-elements selectors (伪元素)
+# Pseudo Elements Selectors (伪元素)
 
 ### Select **a certain part of an element** rather than the element itself
 

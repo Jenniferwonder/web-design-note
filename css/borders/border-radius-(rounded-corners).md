@@ -1,17 +1,21 @@
 ---
+category: Web Design
+comment: 
+aliases:
+  - Border Radius (Rounded Corners)
+draft: false
 title: Border Radius (Rounded Corners)
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-10
-
-status:
-
+DateModified: 2024-04-19
+status: 
 topic: Borders
 reviewed: 1
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 difficulty: Good
+linter-yaml-title-alias: Border Radius (Rounded Corners)
 ---
 
 # Border Radius (Rounded Corners)

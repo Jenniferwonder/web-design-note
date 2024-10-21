@@ -1,12 +1,16 @@
 ---
-title: CSS Functions
+category: Web Design
+Datereviewed: 
+reviewed: 
+comment: 
+draft: true
+title: css-functions
 type: D
 tags:
   - CSS
-status:
-DateStarted: 2023-09-19T00:00:00.000+08:00
-DateModified: 2023-09-25
-
+status: 
+DateStarted: 2023-09-19
+DateModified: 2024-04-19
 difficulty: Hard
 topic:
   - Rules

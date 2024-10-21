@@ -1,18 +1,22 @@
 ---
+category: Web Design
+aliases:
+  - CSS Values and Units
+draft: false
 title: CSS Values and Units
 type: D
 tags:
   - CSS
-status:
+status: 
 DateStarted: 2023-09-20
-DateModified: 2024-01-09
-
+DateModified: 2024-04-19
 comment: ⭐⭐
 difficulty: Hard
 Datereviewed: 2024-01-09
 reviewed: 2
 topic:
   - Sizing
+linter-yaml-title-alias: CSS Values and Units
 ---
 
 # CSS Values and Units
@@ -50,7 +54,7 @@ topic:
 - `ms`
   - 1/1000th of a second
 
-### 🏷️[Sizing Units](Sizing-Units.md)
+### 🏷️[Sizing Units](Sizing-Units)
 
 ## Color
 
@@ -62,7 +66,7 @@ topic:
 
 ### HSL and HSLA values
 
-### 📌[S-Color-颜色与背景](S-Color-颜色与背景.md)
+### 📌[S-Color-颜色与背景](S-Color-颜色与背景)
 
 ## Images
 
@@ -70,7 +74,7 @@ topic:
 
 ### a gradient
 
-### 🏷️[CSS Image-Video and other Replaced elements](CSS-Image-Video-and-other-Replaced-elements.md)
+### 🏷️[CSS Image-Video and other Replaced elements](CSS-Image-Video-and-other-Replaced-elements)
 
 ## Identifiers (keywords)
 
@@ -78,7 +82,7 @@ topic:
 
 ### Position values
 
-- 🏷️[CSS Positioning](CSS-Positioning.md)
+- 🏷️[CSS Positioning](CSS-Positioning)
 
 ## Strings
 
@@ -88,4 +92,4 @@ topic:
 
 ## Functions
 
-### 🏷️[CSS Functions](CSS-Functions.md)
+### 🏷️[CSS Functions](CSS-Functions)

@@ -1,17 +1,21 @@
 ---
+category: Web Design
+aliases:
+  - CSS Selectors (选择器)
+draft: false
 title: CSS Selectors (选择器)
 type: D
 tags:
   - CSS
-status:
+status: 
 DateStarted: 2023-09-19
-DateModified: 2024-01-09
-
+DateModified: 2024-04-19
 comment: ⭐⭐⭐
 difficulty: Good
 reviewed: 3
 Datereviewed: 2024-01-09
 topic: Selectors
+linter-yaml-title-alias: CSS Selectors (选择器)
 ---
 
 # CSS Selectors (选择器)
@@ -24,14 +28,14 @@ topic: Selectors
 
 ## Application
 
-### 📌[Base Styles](Base-Styles.md)
+### 📌[Base Styles](Base-Styles)
 
-## 🏷️[Basic Selectors](Basic-Selectors.md)
+## 🏷️[Basic Selectors](Basic-Selectors)
 
-## 🏷️[Attribute Selectors](Attribute-Selectors.md)
+## 🏷️[Attribute Selectors](Attribute-Selectors)
 
-## 🏷️[pseudo-classes selectors (伪类)](<pseudo-classes-selectors-(伪类).md>)
+## 🏷️[pseudo-classes selectors (伪类)](<pseudo-classes-selectors-(伪类)>)
 
-## 🏷️[pseudo-elements selectors (伪元素)](<pseudo-elements-selectors-(伪元素).md>)
+## 🏷️[pseudo-elements selectors (伪元素)](<pseudo-elements-selectors-(伪元素)>)
 
-## 🏷️[Combinators (Selector Combinations)](<Combinators-(Selector-Combinations).md>)
+## 🏷️[Combinators (Selector Combinations)](<Combinators-(Selector-Combinations)>)

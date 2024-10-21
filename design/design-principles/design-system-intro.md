@@ -1,10 +1,17 @@
 ---
-title: Design System Intro
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+draft: false
+title: design-system-intro
 type: D
-tags:
-status:
+tags: 
+status: 
 DateStarted: 2023-10-10
-DateModified: 2023-10-11
+DateModified: 2024-04-19
 ---
 
 ## Design System Intro

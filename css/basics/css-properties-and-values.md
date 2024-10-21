@@ -1,12 +1,13 @@
 ---
-title: CSS Properties and values
+category: Web Design
+draft: false
+title: css-properties-and-values
 type: D
 tags:
   - CSS
-status:
-DateStarted: 2023-09-18T00:00:00.000+08:00
-DateModified: 2023-09-23
-
+status: 
+DateStarted: 2023-09-18
+DateModified: 2024-04-19
 reviewed: 1
 Datereviewed: 2023-09-21T00:00:00.000+08:00
 difficulty: Hard

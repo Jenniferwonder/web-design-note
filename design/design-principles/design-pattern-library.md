@@ -1,13 +1,23 @@
 ---
-title: Design Pattern library
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Design Systems-Pattern library
+draft: false
+title: Design Systems-Pattern library
 type: D
-tags:
-status:
+tags: 
+status: 
 DateStarted: 2023-10-10
-DateModified: 2023-10-12
+DateModified: 2024-05-10
+linter-yaml-title-alias: Design Systems-Pattern library
 ---
 
-# [[Design Systems]]-Pattern library
+# [Design Systems](design-systems.md)-Pattern library
 
 ## Reference
 
@@ -42,7 +52,7 @@ DateModified: 2023-10-12
 
 ### Each published lib is linked to a file
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1696994092937image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1696994092937image.png)
 
 ### The lib could use styles and components from another lib
 
@@ -62,9 +72,9 @@ DateModified: 2023-10-12
   - Welcome
     - To introduce the system
   - Foundations
-    - [[Styles]]
+    - [Styles](Styles.md)
   - Components & Patterns
-    - [[Components]]
+    - [Components](Components.md)
     - Interactions
       - Microinteraction
     - Templates
@@ -75,6 +85,6 @@ DateModified: 2023-10-12
 - Audit designs
   - Refer to _Atomic Design_
 
-## ⭐[[Styles]]
+## ⭐[Styles](Styles.md)
 
-## ⭐[[Components]]
+## ⭐[Components](Components.md)

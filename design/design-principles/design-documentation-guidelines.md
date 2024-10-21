@@ -1,10 +1,17 @@
 ---
-title: Design Documentation
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+draft: false
+title: design-documentation-guidelines
 type: D
-tags:
-status:
+tags: 
+status: 
 DateStarted: 2023-10-10
-DateModified: 2023-10-10
+DateModified: 2024-04-19
 ---
 
 ## Design Documentation Guidelines
@@ -21,4 +28,4 @@ DateModified: 2023-10-10
 
 ### Naming Conventions
 
-- ![[Naming conventions.png|425]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Naming-conventions.png)

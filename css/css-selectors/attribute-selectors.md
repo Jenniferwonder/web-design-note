@@ -1,19 +1,24 @@
 ---
+aliases:
+  - Attribute Selector
+category: Web Design
+comment: 
+draft: false
 title: Attribute Selector
 type: D
 tags:
   - CSS
 DateStarted: 2024-01-09
-DateModified: 2024-01-09
-
-status:
+DateModified: 2024-04-19
+status: 
 reviewed: 1
 Datereviewed: 2024-01-09T00:00:00.000+08:00
 topic: Selectors
 difficulty: Good
+linter-yaml-title-alias: Attribute Selector
 ---
 
-## Attribute Selector
+# Attribute Selector
 
 ### `a[title] {}`
 

@@ -1,15 +1,21 @@
 ---
-title: "Masks "
+category: Web Design
+Datereviewed: 
+reviewed: 
+comment: 
+aliases:
+  - Masks
+draft: true
+title: Masks
 type: D
 topic: Clipping
 tags:
   - CSS
 DateStarted: 2024-01-19
-DateModified: 2024-01-19
-
-status:
-
+DateModified: 2024-04-19
+status: 
 difficulty: Hard
+linter-yaml-title-alias: Masks
 ---
 
 # Masks

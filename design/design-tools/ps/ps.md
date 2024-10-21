@@ -1,10 +1,21 @@
 ---
+topic: 
+type: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - PS
+draft: false
 title: PS
 tags:
   - Design
 DateStarted: 2023-01-19
-DateModified: 2023-11-13
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: PS
 ---
 
 # PS
@@ -21,20 +32,20 @@ status:
 
 ## Purpose
 
-### [[Graphic Design]]
+### [Graphic Design](Graphic-Design)
 
-### [[Drawing]]
+### [Drawing](Drawing.md)
 
-## ⭐[[PS-Basics]]
+## ⭐[PS-Basics](PS-Basics.md)
 
-## ⭐ [[Select and Cut-out]]
+## ⭐ [Select and Cut-out](Select-and-Cut-out)
 
-## ⭐[[PS-Text Effect]]
+## ⭐[PS-Text Effect](PS-Text-Effect)
 
-## ⭐[[PS-Shapes]]
+## ⭐[PS-Shapes](PS-Shapes.md)
 
-## ⭐[[PS-Image Quality Adjustment and Filter]]
+## ⭐[PS-Image Quality Adjustment and Filter](PS-Image-Quality-Adjustment-and-Filter)
 
-## ⭐[[PS-Combine and Blend Images]]
+## ⭐[PS-Combine and Blend Images](PS-Combine-and-Blend-Images)
 
-## ⭐[[PS-Retouch Images]]
+## ⭐[PS-Retouch Images](PS-Retouch-Images)

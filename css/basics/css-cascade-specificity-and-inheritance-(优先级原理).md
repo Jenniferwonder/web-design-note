@@ -1,17 +1,21 @@
 ---
+category: Web Design
+aliases:
+  - CSS Cascade, Specificity and Inheritance (优先级原理)
+draft: false
 title: CSS Cascade, Specificity and Inheritance (优先级原理)
 type: D
 tags:
   - CSS
-DateStarted: 2023-09-19T00:00:00.000+08:00
-DateModified: 2023-09-23
-status:
-
+DateStarted: 2023-09-19
+DateModified: 2024-04-19
+status: 
 comment: ⭐⭐
 difficulty: Good
 Datereviewed: 2023-09-23T00:00:00.000+08:00
 reviewed: 1
 topic: Basics
+linter-yaml-title-alias: CSS Cascade, Specificity and Inheritance (优先级原理)
 ---
 
 # CSS Cascade, Specificity and Inheritance (优先级原理)

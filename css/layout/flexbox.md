@@ -1,18 +1,22 @@
 ---
+category: Web Design
+aliases:
+  - Flexbox
+draft: false
 title: Flexbox
 type: D
 tags:
   - CSS
-status:
+status: 
 DateStarted: 2023-09-25
-DateModified: 2024-01-19
-
+DateModified: 2024-04-19
 comment: ⭐⭐⭐
 difficulty: Hard
 topic:
   - Layout
 Datereviewed: 2024-01-19T00:00:00.000+08:00
 reviewed: 2
+linter-yaml-title-alias: Flexbox
 ---
 
 # Flexbox
@@ -23,7 +27,7 @@ reviewed: 2
 
 ## Axis
 
-### ![](Flexbox-Axis.png)
+### ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Flexbox-Axis.png)
 
 ## `flex-flow: row wrap`
 

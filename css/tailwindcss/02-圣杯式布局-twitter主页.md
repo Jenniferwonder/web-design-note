@@ -1,8 +1,17 @@
 ---
-title: 02-圣杯式布局：Twitter主页
+topic: 
+type: 
+category: Web Design
+DateModified: 2024-04-19
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+draft: true
+title: 02-圣杯式布局-twitter主页
 tags:
-  - TechSkills
-status:
+  - CSS
+status: 
 DateStarted: 2022-11-11
 ---
 
@@ -66,7 +75,7 @@ import SidebarRow from "./SidebarRow";
 ```tsx
 import React, { SVGProps } from "react";
 interface Props {
-	Icon: (props: SVGProps<SVGSVGElement>) => JSX.Element;
+	Icon: (props: SVGProps<SVGSVGElement) => JSX.Element;
 	title: string;
 }
 ```
@@ -179,7 +188,7 @@ export default SidebarRow;
 
 #### 2. react-timeago:
 
-`npm i react-timeago`
+`npm i react-timeago`  
 `npm i -d @types/react-timeago`
 
 #### 3. react-hot-toast

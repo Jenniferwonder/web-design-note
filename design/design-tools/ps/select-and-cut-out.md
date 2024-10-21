@@ -1,11 +1,21 @@
 ---
+topic: 
+category: Web Design
+Datereviewed: 
+reviewed: 
+difficulty: 
+comment: 
+aliases:
+  - Select and Cut-out
+draft: false
 title: Select and Cut-out
 type: D
 tags:
   - PS
 DateStarted: 2023-10-20
-DateModified: 2023-11-13
-status:
+DateModified: 2024-04-19
+status: 
+linter-yaml-title-alias: Select and Cut-out
 ---
 
 # Select and Cut-out
@@ -34,7 +44,7 @@ status:
 - ✅Fine tune quick selection
   - Right click on the selection > _feather: 0.5 pixels_
   - Quick Selection Tool > _Color aware_ / _Object aware_
-    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697526614539image.png]]
+    - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697526614539image.png)
 
 ### Vector Select (_Pen Tool_)
 
@@ -46,14 +56,14 @@ status:
 
 - _Select > Select and Mask_
   - _View > Overlay_
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697243016458image.png]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697243016458image.png)
 - _Output > Selection_
 
 ## Fine tune in a colorful background
 
 ### Duplicate the subject layer > _layer style > Blending Options_
 
-- ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697526929081image.png]]
+- ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697526929081image.png)
 
 ### Prevent blending on the subject body
 
@@ -68,13 +78,13 @@ status:
 - Click on the layer thumbnail and _Ctrl J_ to duplicate the selected hair layer
 - Select _Channel_ Panel and Choose the channel that reveals the hair with the highest contrast (blue channel) > duplicate the channel
 - _Ctrl i_ to inverse the channel
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697525062672image.png|200]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697525062672image.png)
 - _Image > Adjustments > Levels_ to increase the black white contrast
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697525148970image.png|200]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697525148970image.png)
 - _Burn Tool_ > _Range: Shadows_ to make shadows darker or _Dodge Tool > Range: Highlight_ to make highlight brighter
-  - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697525352315image.png|250]]
+  - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697525352315image.png)
 - _Ctrl click_ the blue copy to select > Select all other RGB channels
 - Go to the layer panel to select the hair layer and click _mask icon_
 - Fine tune the hair
   - Select the hair layer > Apply _layer style > Inner Glow_ > _Blend mode > normal / multiply_ Pick the hair color and adjust the glow size
-    - ![[https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste image 1697525827149image.png|250]]
+    - ![](https://cdn.jsdelivr.net/gh/jenniferwonder/bimg/web-design/Paste-image-1697525827149image.png)

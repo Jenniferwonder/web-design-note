@@ -1,16 +1,21 @@
 ---
-title: "CSS Methodology "
+category: Web Design
+Datereviewed: 
+reviewed: 
+aliases:
+  - CSS Methodology
+draft: false
+title: CSS Methodology
 type: D
 topic: Basics
 tags:
   - CSS
 DateStarted: 2024-01-19
-DateModified: 2024-01-19
-
-status:
-
+DateModified: 2024-04-19
+status: 
 difficulty: Good
 comment: ⭐⭐
+linter-yaml-title-alias: CSS Methodology
 ---
 
 # CSS Methodology
@@ -43,4 +48,4 @@ comment: ⭐⭐
 
 ## Utility-first CSS
 
-### 🏷️[O-TailwindCSS](O-TailwindCSS.md)
+### 🏷️[O-TailwindCSS](O-TailwindCSS)
